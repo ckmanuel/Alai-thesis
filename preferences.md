@@ -49,6 +49,14 @@ intact.
   or scene. The content standards apply to narration and authorial choices,
   not character voice.
 
+## Neutral wording
+Prefer neutral academic wording over informal, pathologizing, or deficit-framed
+terms. When a common research label carries unwanted connotation in context,
+replace it with a precise neutral alternative. Soften intensifiers that cast
+writers or groups as deficient. Keep technical senses of ordinary words when
+they name procedures, coding outcomes, or statistical results rather than
+people.
+
 ## Content and perspective
 - Be practical. Give ideas the space accuracy needs and no more.
 - Surface overlooked views when relevant.
