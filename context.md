@@ -72,12 +72,15 @@ or rotate it first. Rewriting history is a last resort and doesn't reach
 copies already made.
 
 ## Current focus
-_None yet._
+Thesis revision: Ahlai Velasquez CTA Facebook skincare ads manuscript.
+Primary file: `thesis/Velasquez_CTA_Skincare_Thesis_FINAL_2026-10-18.docx`.
+Earlier drafts in `thesis/archive/`. User requested help revising (structure, clarity, argument, language, etc.).
 
 ## Open threads
-_None yet._
+- Confirm what kind of revision is needed first (structure / clarity / language / argument / citations / formatting).
+- Earlier Chapter 3 drafts exist in archive; check whether user wants them merged or used as reference only.
 
 ## Recently completed
 _Capped at 5 entries. Older items live in `decisions.md` and `chat_history/`._
 
-_None yet._
+- 2026-10-27: Created `thesis/` folder, uploaded FINAL Oct 18 manuscript, recovered prior drafts from thesis-memory into archive.
