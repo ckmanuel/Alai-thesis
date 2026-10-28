@@ -86,3 +86,13 @@ token" rule overrides "verbatim").
 >    - I will continue adding the missing full APA entries (pulled / constructed from the references/ PDFs and FINAL where available) in the next pass so the list is complete and alphabetical.
 > 
 > File saved as thesis/Velasquez_ThesisRevised_DRAFT_005.docx. Ready for the reference completion pass or any other instruction.
+
+#### Exchange 4 — trace 1793172646827992
+
+**User:**
+
+> upload. use this as the base working draft
+
+**Assistant:**
+
+> (in progress...)

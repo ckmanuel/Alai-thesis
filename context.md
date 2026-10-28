@@ -74,9 +74,8 @@ copies already made.
 ## Current focus
 Thesis revision: Ahlai Velasquez CTA Facebook skincare ads manuscript.
 Primary file: `thesis/Velasquez_CTA_Skincare_Thesis_FINAL_2026-10-18.docx`.
-Working draft: `thesis/Velasquez_CTA_Skincare_Thesis_DRAFT_004.docx` (full reformat of DRAFT_003 per user 2026-10-28 rules: Georgia, double body / 1.15 title, L1.5" R/T/B 1.0", A4, section breaks before majors + 3 spacers, open-sided tables, page nums upper-right hidden on section first pages, images inline/scaled).
-Locked opening + Theme 1 + Theme 2 still in BOTS of DRAFT_004.
-Next: confirm Theme 2 / proceed to Theme 3 or remaining integration if needed. User may request further visual polish after reviewing DRAFT_004.
+Working draft: `thesis/Velasquez_ThesisRevised_DRAFT_006.docx` (user-uploaded base 2026-10-28; Definition of Terms flat alpha; References hanging+alpha; major headers new page; tables cleaned).
+Next: missing BOTS references still to be added; any further formatting/content polish as requested.
 
 ## Open threads
 - Theme 1 locked into BOTS draft (dynamic version).
