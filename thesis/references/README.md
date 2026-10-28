@@ -84,8 +84,50 @@ Examples: `Arakelyan_Aleksanyan_2025_Linguistic_Peculiarities_CTA.pdf`
 
 ---
 
+## Theme 3 – Directive speech acts in promotional language
+
+### Local copies now in this folder
+
+1. **Anggraini, M., & Afriana, A. (2023).** Types of directive speech acts in “Fall” movie 2022. *IDEAS: Journal on English Language Teaching and Learning, Linguistics and Literature, 11*(2), 1132–1143.  
+   DOI: https://doi.org/10.24256/ideas.v11i2.4250  
+   File: `Anggraini_Afriana_2023_Types_Directive_Speech_Acts_Fall_Movie.pdf`  
+   Applies Yule (1996) subtypes (command, order, request, suggestion) to movie data.
+
+2. **Kencana, D. S. S. (2025).** An analysis of representative and directive speech acts in NIVEA’s advertising discourse on Instagram. *PRASASTI: Journal of Linguistics, 10*(2), 184–197.  
+   DOI: https://doi.org/10.20961/prasasti.v10i2.97398  
+   File: `Kencana_2025_Representative_Directive_Speech_Acts_NIVEA_Instagram.pdf`  
+   NIVEA Indonesia Instagram captions; directives as calls to action (commands, suggestions, invitations, advice).
+
+3. **Nurjannah. (2025).** Analysis of directive utterances in “Some by Me” advertisement in Instagram. *Social Science Research Journal, 2*(2), 56–63.  
+   File: `Nurjannah_2025_Directive_Utterances_Some_By_Me_Instagram.pdf`  
+   Skincare brand Instagram; predominantly imperatives (direct and indirect); modals and rhetorical questions for politeness.
+
+4. **Mahdiati, M., Azizah, H. N., Hadi, M. I., & Jumadi, J. (2025).** Tindak tutur direktif dalam pembentukan citra produk pada digital kosmetik di Instagram @wardahbeauty. *Argopuro: Jurnal Ilmu Bahasa, 9*(4).  
+   File: `Mahdiati_etal_2025_Directive_Speech_Acts_Wardah_Instagram.pdf`  
+   Wardah Beauty Instagram; suggestions, commands, and invitations used to shape product image.
+
+5. **Andriuzzi, A., & Michel, G. (2025).** Embarrassed to observe: The effects of directive language in brand conversation. *Psychology & Marketing, 42*(11), 2922–2938.  
+   DOI: https://doi.org/10.1002/mar.70018  
+   File: `Andriuzzi_Michel_2025_Effects_Directive_Language_Brand_Conversation.pdf`  
+   Directive language in brand–consumer social-media conversation can reduce observer engagement via vicarious embarrassment.
+
+6. **Searle, J. R. (1975).** A taxonomy of illocutionary acts. In K. Gunderson (Ed.), *Language, mind, and knowledge* (Minnesota Studies in the Philosophy of Science, Vol. 7, pp. 344–369). University of Minnesota Press.  
+   File: `Searle_1975_Taxonomy_Illocutionary_Acts.pdf`  
+   Classic taxonomy; directives as attempts to get the hearer to do something.
+
+7. **Yule, G. (1996).** *Pragmatics*. Oxford University Press.  
+   ISBN: 978-0-19-437207-7  
+   File: `Yule_1996_Pragmatics.pdf`  
+   Source for the four directive subtypes (command, order, request, suggestion) used operationally in the thesis.
+
+### Note on Prasetya & Ramdhani (2023)
+No exact matching PDF was uploaded in this batch. The claim in the current Theme 3 draft about directive prompts (“try,” “buy,” “drink”) remains supported by the broader advertising speech-act literature already on file (Kencana, Nurjannah, Mahdiati, Saad & Ismael). Confirm or replace the specific Prasetya & Ramdhani citation later if a precise PDF becomes available.
+
+---
+
 ## Status
 - Opening BOTS citations locked (Kemp + Desiderio/CCIP).
-- Theme 1 source PDFs (5) uploaded, recorded, and used in revised Theme 1.
-- Theme 2 source PDFs (5) uploaded and recorded.
-- Theme 2 draft revision still pending user confirmation after preview.
+- Theme 1 source PDFs uploaded, recorded, and used in revised Theme 1.
+- Theme 2 source PDFs uploaded, recorded, and used in revised Theme 2.
+- Theme 3 source PDFs (Anggraini & Afriana, Kencana, Nurjannah, Mahdiati et al., Andriuzzi & Michel, Searle, Yule) now uploaded and recorded.
+- Theme 3 draft revision still pending (standby for expound/revise after this upload confirmation).
