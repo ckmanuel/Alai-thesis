@@ -95,3 +95,12 @@ When revising or extending the BOTS, prefer this pattern (adapted from the PSAU 
 
 - `thesis/001_ThesisCompanion.pdf` — BAELS Thesis Companion (institutional layout and process reference).
 - `thesis/Thesis_Verb_Tense_Matrix.pdf` — tense guidance; **FINAL DEFENSE** column is the default for this completed manuscript.
+
+---
+
+## Citation form in running text (binding)
+
+- Two authors: always use both surnames joined by “and” (e.g., Arakelyan and Aleksanyan, 2025; Bünzli and Eppler, 2025).
+- Three or more authors: use the first surname + “et al.” (e.g., De Cock et al., 2024).
+- Do not write “and colleagues,” “and co-authors,” or similar informal phrases.
+- Prefer “According to X (year)” or “X (year) found/showed/examined…” for the first mention of a study’s contribution.
