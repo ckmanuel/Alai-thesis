@@ -393,3 +393,16 @@ Current focus confirmed: substantive revision of Ahlai Velasquez CTA Facebook sk
 **Assistant:**
 
 > Fixed: section break now separates title page from INTRODUCTION. Title page follows exact spacer order; INTRODUCTION starts on the next page with 3 empty spacers above it. A4 + margins kept. Pushed.
+
+#### Exchange 28 — trace title-exact-follow-001
+
+**User:**
+
+> nothing fixed. did you actually read the instruction...
+
+**Assistant:**
+
+> Rebuilt title page to match your exact diagram:
+> [3 empty] TITLE [3 empty] faculty [3 empty] degree [3 empty] By [fill] Name Date
+> then [empty + section break] → new page → [3 empty] INTRODUCTION
+> Pushed.
