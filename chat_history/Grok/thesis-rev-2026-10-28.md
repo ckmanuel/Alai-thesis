@@ -373,3 +373,13 @@ Current focus confirmed: substantive revision of Ahlai Velasquez CTA Facebook sk
 **Assistant:**
 
 > Fixed title page order and spill; set margins to Left 1.5" / Right·Top·Bottom 1.0" on all sections. Rebuilt title page with correct spacer structure. Committed and pushed.
+
+#### Exchange 26 — trace title-a4-fix-001
+
+**User:**
+
+> Title page still spills. Also use A4 paper.
+
+**Assistant:**
+
+> Switched to A4 paper; tightened title-page spacers (2/2/2/2 fill) so Name+Date stay on page 1; margins L1.5 R/T/B 1.0. Pushed.
