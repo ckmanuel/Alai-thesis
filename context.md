@@ -76,12 +76,12 @@ Thesis revision: Ahlai Velasquez CTA Facebook skincare ads manuscript.
 Primary file: `thesis/Velasquez_CTA_Skincare_Thesis_FINAL_2026-10-18.docx`.
 Working BOTS draft: `thesis/BOTS_Restructure_Draft_001.docx`.
 Locked opening (Kemp 2025 + Desiderio 2026) and Theme 1 (dynamic paragraph rhythm) are now in the BOTS draft.
-Theme 2 (Rhetorical appeals) has a good dynamic preview ready but not yet locked (user instructed not to fold the second/misunderstood revision).
+Theme 2 (Rhetorical appeals) dynamic version now locked into BOTS draft.
 Next: confirm/lock Theme 2, then continue to Theme 3 or full manuscript integration.
 
 ## Open threads
 - Theme 1 locked into BOTS draft (dynamic version).
-- Theme 2: keep the first dynamic preview (method + finding + implication, varied paragraphs). Do not use the later “same as Theme 1” version that caused confusion.
+- Theme 2 locked (first dynamic version).
 - After Theme 2 is confirmed, proceed to remaining themes / integrate into main manuscript.
 - Earlier Chapter 3 drafts in archive remain reference only unless user asks to merge.
 

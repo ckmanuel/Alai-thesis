@@ -189,3 +189,13 @@ Current focus confirmed: substantive revision of Ahlai Velasquez CTA Facebook sk
 **Assistant:**
 
 > Confirmed the improved opening (Kemp 2025 + Desiderio 2026) was missing from the BOTS draft. Replaced the old generic opening with the locked version. References README already had the entries. Committed and pushed.
+
+#### Exchange 8 — trace fold-theme2-001
+
+**User:**
+
+> commit theme 2. I already gave permission to fold it 3 exchanges ago.
+
+**Assistant:**
+
+> Folded the good dynamic Theme 2 (method + finding + implication, varied paragraph rhythm) into `thesis/BOTS_Restructure_Draft_001.docx`. Committed and pushed.
