@@ -43,6 +43,8 @@ When rules conflict, apply them in this order. Higher wins.
 
 Write as a careful BAELS undergraduate researcher reporting a completed discourse analysis.
 
+- Vary paragraph shape and rhythm so the section does not feel formulaic. Alternate shorter and longer paragraphs; avoid repeating the same opening pattern for every study.
+
 - Direct and plain. Name what the CTA phrases do, what the frameworks classify, and what the counts show.
 - Prefer active voice where it fits (“The analysis identified…”, “Olay used…”). Passive is fine for methods and for focusing on the data (“Twenty-two phrases were classified as logos”).
 - Short to medium sentences. One main idea per paragraph when possible.

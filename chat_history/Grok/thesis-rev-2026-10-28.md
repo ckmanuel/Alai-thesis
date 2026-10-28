@@ -138,3 +138,15 @@ Current focus confirmed: substantive revision of Ahlai Velasquez CTA Facebook sk
 **Assistant:**
 
 > Folded the dynamic Theme 1 (varied paragraph shape and rhythm) into `thesis/BOTS_Restructure_Draft_001.docx`. Left Theme 2 untouched — the second/misunderstood revision was not folded. Updated context.md and projects.md. Committed and pushed.
+
+#### Exchange 6 — trace writing-rule-001
+
+**User:**
+
+> push. also, add this to binding rules in writing in the repo.
+> 
+> vary paragraph shape and rhythm so the section does not feel formulaic
+
+**Assistant:**
+
+> Added binding rule to `thesis/WRITING.md` under Tone and voice: “Vary paragraph shape and rhythm so the section does not feel formulaic…” Committed and pushed.
