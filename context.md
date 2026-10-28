@@ -74,7 +74,7 @@ copies already made.
 ## Current focus
 Thesis revision: Ahlai Velasquez CTA Facebook skincare ads manuscript.
 Primary file: `thesis/Velasquez_CTA_Skincare_Thesis_FINAL_2026-10-18.docx`.
-Working draft: `thesis/Velasquez_CTA_Skincare_Thesis_DRAFT_003.docx` (created from FINAL to preserve all photos/images; polished BOTS content + theme structure imported from DRAFT_002).
+Working draft: `thesis/Velasquez_CTA_Skincare_Thesis_DRAFT_003.docx` (from FINAL + polished BOTS). Full formatting pass applied (Georgia, double spacing, open table borders, bold-spill clear, uniform body spacing, margins A4, different_first_page).
 Locked opening (Kemp 2025 + Desiderio 2026), Theme 1, Theme 2 dynamic versions now in the Background of the Study of DRAFT_003.
 Next: confirm Theme 2 / proceed to Theme 3 or remaining integration and pagination polish if needed.
 
