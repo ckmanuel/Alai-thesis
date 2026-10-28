@@ -8,7 +8,18 @@ BA English Language Studies, Pampanga State Agricultural University (PSAU), Octo
 
 **Velasquez_CTA_Skincare_Thesis_FINAL_2026-10-18.docx**
 
-Full manuscript as of 18 October 2026 (title page through Appendices). Uploaded this session as the primary working file.
+Full manuscript as of 18 October 2026 (title page through Appendices). Primary working file.
+
+## Binding rules (read these before any edit)
+
+| File | Role |
+|------|------|
+| `FORMATTING.md` | Layout: font, spacing, headers, tables, page numbers. Wins on layout conflicts. |
+| `WRITING.md` | Prose, tone, tense priority, claim discipline. Wins on prose conflicts. |
+| `001_ThesisCompanion.pdf` | BAELS Thesis Companion (institutional reference). |
+| `Thesis_Verb_Tense_Matrix.pdf` | Verb tense by section. Use **FINAL DEFENSE** column. |
+
+Priority for prose: (1) Verb Tense Matrix → (2) no em dashes or semicolons → (3) WRITING.md + root preferences.
 
 ## Archive
 
@@ -22,7 +33,8 @@ Earlier versions recovered from thesis-memory:
 
 - Small stylistic or section edits overwrite the current working DOCX.
 - New dated or numbered file only for major revisions or when requested.
-- Keep all drafts in DOCX. PDF only when needed for reference.
+- Keep drafts in DOCX. PDF of the working draft only when asked.
+- Force-add binaries (`git add -f`) because `*.docx` / `*.pdf` are gitignored by default.
 
 ## Structure notes
 

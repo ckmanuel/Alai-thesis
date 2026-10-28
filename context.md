@@ -74,13 +74,16 @@ copies already made.
 ## Current focus
 Thesis revision: Ahlai Velasquez CTA Facebook skincare ads manuscript.
 Primary file: `thesis/Velasquez_CTA_Skincare_Thesis_FINAL_2026-10-18.docx`.
-Earlier drafts in `thesis/archive/`. User requested help revising (structure, clarity, argument, language, etc.).
+Binding rules now in place: `thesis/FORMATTING.md`, `thesis/WRITING.md`, companion PDF, Verb Tense Matrix (FINAL DEFENSE).
+Next: begin substantive revision once user names the first section or priority.
 
 ## Open threads
-- Confirm what kind of revision is needed first (structure / clarity / language / argument / citations / formatting).
-- Earlier Chapter 3 drafts exist in archive; check whether user wants them merged or used as reference only.
+- User asked for binding formatting + writing tone rules first (done).
+- Next: start substantive revision; confirm first section or priority (structure / clarity / language / argument / citations).
+- Earlier Chapter 3 drafts in archive remain reference only unless user asks to merge.
 
 ## Recently completed
 _Capped at 5 entries. Older items live in `decisions.md` and `chat_history/`._
 
+- 2026-10-28: Added binding FORMATTING.md, WRITING.md, BAELS Thesis Companion, Verb Tense Matrix.
 - 2026-10-27: Created `thesis/` folder, uploaded FINAL Oct 18 manuscript, recovered prior drafts from thesis-memory into archive.

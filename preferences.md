@@ -123,3 +123,15 @@ Guardrails against weak habits. Use judgment, not mechanical compliance.
   structure aimed at crawlers.
 - Don't end with "what's next?" or similar prompts. End when the substance is
   done.
+
+## Thesis prose (binding for manuscript work)
+
+When drafting or revising text in `thesis/`, also follow:
+
+1. `thesis/WRITING.md` — tone, claim discipline, BOTS cadence, framework language.
+2. `thesis/FORMATTING.md` — layout (Georgia, double spacing, major/minor headers, tables).
+3. `thesis/Thesis_Verb_Tense_Matrix.pdf` — FINAL DEFENSE column.
+4. `thesis/001_ThesisCompanion.pdf` — institutional companion.
+
+Prose priority: Verb Tense Matrix → no em dashes or semicolons → WRITING.md and this file.
+Layout priority: FORMATTING.md wins over chat instructions.
