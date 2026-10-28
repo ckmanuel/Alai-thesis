@@ -343,3 +343,13 @@ Current focus confirmed: substantive revision of Ahlai Velasquez CTA Facebook sk
 **Assistant:**
 
 > Created new main thesis draft `thesis/Velasquez_CTA_Skincare_Thesis_DRAFT_002.docx` by integrating the polished BOTS Background (Themes 1–3 + synthesis/gap) into the FINAL manuscript. Old FINAL left untouched. Committed and pushed.
+
+#### Exchange 23 — trace format-check-001
+
+**User:**
+
+> heyyy follow thesis format. check formatting md and companion for the format.
+
+**Assistant:**
+
+> Reformatted `Velasquez_CTA_Skincare_Thesis_DRAFT_002.docx` to match `thesis/FORMATTING.md`: Georgia throughout, double spacing, major headers 14pt bold centered, bold minors 12pt, thematic subsections 12pt italic, body 11pt justified with 0.5" first-line indent, correct spacer counts. Force-added and pushed.
