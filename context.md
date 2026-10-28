@@ -74,9 +74,10 @@ copies already made.
 ## Current focus
 Thesis revision: Ahlai Velasquez CTA Facebook skincare ads manuscript.
 Primary file: `thesis/Velasquez_CTA_Skincare_Thesis_FINAL_2026-10-18.docx`.
-Working BOTS draft: `thesis/BOTS_Restructure_Draft_001.docx`.
+Working integrated draft: `thesis/Velasquez_CTA_Skincare_Thesis_DRAFT_002.docx` (polished BOTS + format).
 Locked opening (Kemp 2025 + Desiderio 2026) and Theme 1 (dynamic paragraph rhythm) are now in the BOTS draft.
 Theme 2 (Rhetorical appeals) dynamic version now locked into BOTS draft.
+Pagination headers restored and image media re-embedded into DRAFT_002 (referenced figures).
 Next: confirm/lock Theme 2, then continue to Theme 3 or full manuscript integration.
 
 ## Open threads
@@ -88,6 +89,7 @@ Next: confirm/lock Theme 2, then continue to Theme 3 or full manuscript integrat
 ## Recently completed
 _Capped at 5 entries. Older items live in `decisions.md` and `chat_history/`._
 
+- 2026-10-28: Restored missing pagination (section headers + titlePg + first-page hide) and re-embedded referenced images into DRAFT_002 per companion + FORMATTING.md.
 - 2026-10-28: Revised Theme 1 with varied paragraph shape/rhythm and folded into BOTS_Restructure_Draft_001.docx.
 - 2026-10-28: Produced dynamic Theme 2 preview (kept separate; not locked).
 - 2026-10-28: Verified all Theme 2 references as real; PDFs already present.
