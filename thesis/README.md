@@ -8,7 +8,11 @@ BA English Language Studies, Pampanga State Agricultural University (PSAU), Octo
 
 **Velasquez_CTA_Skincare_Thesis_FINAL_2026-10-18.docx**
 
-Full manuscript as of 18 October 2026 (title page through Appendices). Primary working file.
+Full manuscript as of 18 October 2026 (title page through Appendices). Primary full-file draft. Do not delete.
+
+**BOTS_Restructure_Draft_001.docx**
+
+New Background of the Study only, reorganized into four themes. Old full manuscript left unchanged. References not yet revised theme-by-theme.
 
 ## Binding rules (read these before any edit)
 

@@ -10,24 +10,32 @@ If chat instructions and this file conflict on prose, **this file wins**. Layout
 
 When rules conflict, apply them in this order. Higher wins.
 
-1. **Verb Tense Matrix** (`thesis/Thesis_Verb_Tense_Matrix.pdf`)
+1. **Writer tone**
+   - Match how the author already writes in the manuscript: plain undergraduate academic English, direct topic sentences, moderate repetition for clarity, natural use of “According to X (year),” and simple transitions such as “Building on these findings” or “Taken together.”
+   - Do not polish into native-speaker academic style if that changes the author’s voice.
+   - Avoid jargon and difficult prose. Prefer common words. Explain a technical term in plain words the first time it is needed.
+
+2. **B1–B2 English**
+   - Short to medium sentences. One main idea per sentence when possible.
+   - High-frequency vocabulary. Keep grammar straightforward.
+   - Philippine English spelling and educated written register.
+
+3. **Verb Tense Matrix** (`thesis/Thesis_Verb_Tense_Matrix.pdf`)
    - Use the FINAL DEFENSE column for the completed thesis.
    - Background / literature: present for current facts and ongoing situations; present perfect for trends that continue to now.
    - Statement of the problem and objectives: present (*aims*, *examines*, *seeks*).
    - Methods (completed study): past for what was done.
-   - Results: past for what the analysis found; present for what the data show as enduring patterns when the matrix allows.
-   - Discussion / conclusion: mix as the matrix specifies; keep claims tied to this corpus in past or present as appropriate, and keep general scholarly statements in present.
+   - Results: past for what the analysis found; present for patterns when the matrix allows.
+   - Discussion / conclusion: follow the matrix; keep corpus-specific claims accurate in tense.
 
-2. **Punctuation constraints**
+4. **Em-dash and semicolon avoidance**
    - Default to periods and fresh sentences.
    - Do **not** use em dashes (—) or semicolons (;) in thesis prose.
-   - If a long sentence needs a break, split it. Prefer a full stop or one short subordinate clause.
+   - If a long sentence needs a break, split it.
 
-3. **User preferences and academic register** (see also root `preferences.md`)
-   - Philippine English spelling and educated written register.
-   - Clear undergraduate academic English (roughly CEFR B1–B2 base, raised where the discipline requires precise terms).
-   - Accuracy first, then clarity, then voice, then formatting.
-   - Neutral wording: avoid informal, pathologizing, or deficit-framed labels.
+5. **User preferences** (see also root `preferences.md`)
+   - Accuracy first. Neutral wording. No filler openings.
+   - Apply only where they do not conflict with (1)–(4).
 
 ---
 
