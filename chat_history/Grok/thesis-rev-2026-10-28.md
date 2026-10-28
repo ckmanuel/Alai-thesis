@@ -209,3 +209,13 @@ Current focus confirmed: substantive revision of Ahlai Velasquez CTA Facebook sk
 **Assistant:**
 
 > Checked again. Theme 2 fold (`dfe5285`) is already on origin/main. Local and remote match. Only the transcript line was uncommitted; closing and pushing it now.
+
+#### Exchange 10 — trace push-clarify-001
+
+**User:**
+
+> didn't I said when I said push. commit directly in the repo not only on local disc?
+
+**Assistant:**
+
+> Verified against remote. Local HEAD and origin/main are the same commit (`eebbaf8`). The dynamic Theme 2 text is present inside `thesis/BOTS_Restructure_Draft_001.docx` on GitHub. All earlier folds (opening, Theme 1, Theme 2, WRITING.md rule) are on the remote, not only on local disk.
