@@ -74,7 +74,7 @@ copies already made.
 ## Current focus
 Thesis revision: Ahlai Velasquez CTA Facebook skincare ads manuscript.
 Primary file: `thesis/Velasquez_CTA_Skincare_Thesis_FINAL_2026-10-18.docx`.
-Working draft: `thesis/Velasquez_ThesisRevised_DRAFT_007.docx` (BOTS expanded and folded from last-agent rough draft).
+Working draft: `thesis/Velasquez_ThesisRevised_DRAFT_008.docx` (BOTS expanded and folded from last-agent rough draft).
 Prior base: DRAFT_006 preserved.
 Next: theme-by-theme polish of BOTS; check new citations in References.
 
