@@ -75,7 +75,7 @@ copies already made.
 Thesis revision: Ahlai Velasquez CTA Facebook skincare ads manuscript.
 Primary file: `thesis/Velasquez_CTA_Skincare_Thesis_FINAL_2026-10-18.docx`.
 Working BOTS draft: `thesis/BOTS_Restructure_Draft_001.docx`.
-Theme 1 (CTA phrases as persuasive linguistic units) has been revised with dynamic paragraph rhythm and locked into the BOTS draft.
+Locked opening (Kemp 2025 + Desiderio 2026) and Theme 1 (dynamic paragraph rhythm) are now in the BOTS draft.
 Theme 2 (Rhetorical appeals) has a good dynamic preview ready but not yet locked (user instructed not to fold the second/misunderstood revision).
 Next: confirm/lock Theme 2, then continue to Theme 3 or full manuscript integration.
 

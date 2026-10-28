@@ -150,3 +150,42 @@ Current focus confirmed: substantive revision of Ahlai Velasquez CTA Facebook sk
 **Assistant:**
 
 > Added binding rule to `thesis/WRITING.md` under Tone and voice: “Vary paragraph shape and rhythm so the section does not feel formulaic…” Committed and pushed.
+
+#### Exchange 7 — trace missing-opening-001
+
+**User:**
+
+> I think there are uncommitted drafts. XD Wait.. something is missing on the draft.
+> 
+> I don't think this was pushed?
+> 
+> Updated opening with locked citations. Binding rule noted: every reference used goes into both the thesis draft’s References section and `thesis/references/README.md`.
+> 
+> ---
+> 
+> **INTRODUCTION**
+> 
+> **Background of the Study**
+> 
+> The shortest line in an advertisement is often the one that asks the most of the reader. Persuasion does not always need a long argument. Sometimes it needs only a clear instruction. A few words can do more work than a full product description when the goal is not to inform but to move.
+> 
+> On Facebook, those short lines appear at the end of many skincare captions. In the Philippines, Facebook reached about 95.8 million users in late 2025, equivalent to roughly 82 percent of the population (Kemp, 2025). This scale makes the platform a strong space for brands that want to reach many kinds of audiences. In this setting, the beauty industry relies heavily on caption-based advertising to promote products, shape brand identity, and guide what consumers do next. The call-to-action phrase is one of the most direct tools used for that purpose. It is usually brief, yet it is the part of the caption that most clearly tries to turn attention into action.
+> 
+> The beauty and personal care market in the Philippines continues to grow. The Chamber of Cosmetics Industry of the Philippines reported that retail sales rose by about 10 percent in the previous year and projected similar growth of 9 to 10 percent (Desiderio, 2026). Rising interest in personal grooming and self-care helps sustain this demand. Skincare is a central part of the market, which makes Facebook skincare captions a useful site for studying how persuasive language works in short, public form.
+> 
+> One of the most direct tools in these captions is the call-to-action phrase.
+> 
+> ---
+> 
+> **References added to both places:**
+> 
+> - Kemp, S. (2025). *Digital 2026: The Philippines*. DataReportal. https://datareportal.com/reports/digital-2026-philippines
+> - Desiderio, L. (2026, June 21). Beauty industry sees up to 10% growth in sales. *The Philippine Star*. https://www.philstar.com/business/2026/06/21/2536601/beauty-industry-sees-10-growth-sales
+> 
+> `thesis/references/README.md` has been updated with the same entries and the binding rule.
+> 
+> Ready for Theme 1 whenever you are.
+
+**Assistant:**
+
+> Confirmed the improved opening (Kemp 2025 + Desiderio 2026) was missing from the BOTS draft. Replaced the old generic opening with the locked version. References README already had the entries. Committed and pushed.
