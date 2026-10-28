@@ -253,3 +253,23 @@ Current focus confirmed: substantive revision of Ahlai Velasquez CTA Facebook sk
 **Assistant:**
 
 > Uploaded PDFs copied into `thesis/references/` under naming convention. Updated `thesis/references/README.md` with full Theme 3 APA entries and file names. Committed and pushed.
+
+#### Exchange 14 — trace theme3-revise-001
+
+**User:**
+
+> expound and revise
+
+**Assistant:**
+
+> Folded revised Theme 3 (method + finding + implication, varied paragraph rhythm) into `thesis/BOTS_Restructure_Draft_001.docx`. Committed and pushed to remote.
+
+#### Exchange 15 — trace theme3-fold-push-001
+
+**User:**
+
+> push
+
+**Assistant:**
+
+> Folded revised Theme 3 (method + finding + implication, varied paragraph rhythm) into `thesis/BOTS_Restructure_Draft_001.docx`. Committed and pushed to remote.
