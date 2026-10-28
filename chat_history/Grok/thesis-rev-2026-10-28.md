@@ -406,3 +406,13 @@ Current focus confirmed: substantive revision of Ahlai Velasquez CTA Facebook sk
 > [3 empty] TITLE [3 empty] faculty [3 empty] degree [3 empty] By [fill] Name Date
 > then [empty + section break] → new page → [3 empty] INTRODUCTION
 > Pushed.
+
+#### Exchange 29 — trace full-redo-blank-slate-001
+
+**User:**
+
+> REDO. FOLLOW THE FORMATTING STRICTLY TO THE DOT. CLEAR ALL FORMATTING AND SPACING.
+
+**Assistant:**
+
+> Full blank-slate redo of DRAFT_002. Cleared all prior formatting. Rebuilt from content extract following rules to the letter: A4, margins L1.5 R/T/B1.0, title page exact spacer order, [empty+section break] after Date, INTRODUCTION on next page with 3+3 spacers, Georgia throughout, double body / 1.5 title, major/minor/theme hierarchy, tables open-sided, refs hanging. Pushed.
