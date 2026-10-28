@@ -125,6 +125,26 @@ No exact matching PDF was uploaded in this batch. The claim in the current Theme
 
 ---
 
+---
+
+## Theme 4 – Integrating rhetorical appeals and directive subtypes in CTA phrases
+
+### Local copies now in this folder
+
+1. **Saad, I. T., & Ismael, A. A. (2025).** The art of selling beauty: Analyzing persuasive strategies and speech acts in social media cosmetics advertising. *Tasnim International Journal for Human, Social and Legal Sciences*.  
+   DOI: https://doi.org/10.56924/tasnim.14.2025/23  
+   File: `Saad_Ismael_2025_Persuasive_Strategies_Social_Media_Cosmetics.pdf`  
+   Explicit joint use of rhetorical appeals (ethos, pathos, logos) and speech-act categories in Instagram/Facebook cosmetics ads.
+
+2. **Rababah, L. M. (2023).** Examining speech acts in Jordanian advertising: Pragmatic functions, linguistic features, and rhetorical devices. *Journal of Ethnic and Cultural Studies, 10*(5), 212–223.  
+   DOI: https://doi.org/10.29333/ejecs/1722  
+   File: `Rababah_2023_Speech_Acts_Jordanian_Advertising.pdf`  
+   Combines Searle’s speech-act taxonomy with rhetorical devices (hyperbole, metaphor, rhetorical questions) in print advertising.
+
+### Status note
+- All core sources for the Integrating section are now on file.
+- Ready for expound-and-revise of Theme 4 once user confirms.
+
 ## Status
 - Opening BOTS citations locked (Kemp + Desiderio/CCIP).
 - Theme 1 source PDFs uploaded, recorded, and used in revised Theme 1.

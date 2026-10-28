@@ -273,3 +273,23 @@ Current focus confirmed: substantive revision of Ahlai Velasquez CTA Facebook sk
 **Assistant:**
 
 > Folded revised Theme 3 (method + finding + implication, varied paragraph rhythm) into `thesis/BOTS_Restructure_Draft_001.docx`. Committed and pushed to remote.
+
+#### Exchange 16 — trace theme4-start-001
+
+**User:**
+
+> Now let's start with the last theme before the BOTS conclusion. First, independently check cited references in the section. see if they are real and accurate or hallucinations. next, look for relevant scholarly articles related to the current study and current theme. Find me their active open access pdf link, if there's none, provide me their DOI so I can look for them myself. Provide me all the references in APA format. Standby until I upload the pdf of the references in the repo before we continue editing. then after upload, expound and revise. provide preview for check pre-commit. after confirmation, make sure you push and commit the revision to the repo not only to your local disc.
+
+**Assistant:**
+
+> Rababah (2023) PDF copied into `thesis/references/` as `Rababah_2023_Speech_Acts_Jordanian_Advertising.pdf`. README updated. Committed and pushed.
+
+#### Exchange 17 — trace theme4-rababah-upload-001
+
+**User:**
+
+> upload
+
+**Assistant:**
+
+> Rababah (2023) PDF copied into `thesis/references/` as `Rababah_2023_Speech_Acts_Jordanian_Advertising.pdf`. README updated. Committed and pushed.
