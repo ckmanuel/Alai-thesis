@@ -126,3 +126,13 @@ token" rule overrides "verbatim").
 **Assistant:**
 
 > (in progress...)
+
+#### Exchange 8 — trace theme1-expand-001
+
+**User:**
+
+> so let's tackle theme 1. expand it.
+
+**Assistant:**
+
+> (in progress...)
