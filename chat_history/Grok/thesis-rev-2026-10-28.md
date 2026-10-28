@@ -363,3 +363,13 @@ Current focus confirmed: substantive revision of Ahlai Velasquez CTA Facebook sk
 **Assistant:**
 
 > Full blank-slate formatting pass on DRAFT_002 per user rules: Georgia throughout, title page 1.5 spacing, body double, major/minor/theme hierarchy, section breaks, open-sided tables, hanging refs, page numbers (hidden on first of section), no body-to-body empties. Force-added and pushed.
+
+#### Exchange 25 — trace title-margin-fix-001
+
+**User:**
+
+> title page spills. Margin: Left 1.5 Right/Up/Down 1.0
+
+**Assistant:**
+
+> Fixed title page order and spill; set margins to Left 1.5" / Right·Top·Bottom 1.0" on all sections. Rebuilt title page with correct spacer structure. Committed and pushed.
