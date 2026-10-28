@@ -107,7 +107,7 @@ Current focus confirmed: substantive revision of Ahlai Velasquez CTA Facebook sk
 
 **Assistant:**
 
-> (in progress...)
+> Folded the dynamic Theme 1 (varied paragraph shape and rhythm) into `thesis/BOTS_Restructure_Draft_001.docx`. Left Theme 2 untouched — the second/misunderstood revision was not folded. Updated context.md and projects.md. Committed and pushed.
 
 #### Exchange 3 — trace theme2-same-as-t1-001
 
@@ -117,7 +117,7 @@ Current focus confirmed: substantive revision of Ahlai Velasquez CTA Facebook sk
 
 **Assistant:**
 
-> (in progress...)
+> Folded the dynamic Theme 1 (varied paragraph shape and rhythm) into `thesis/BOTS_Restructure_Draft_001.docx`. Left Theme 2 untouched — the second/misunderstood revision was not folded. Updated context.md and projects.md. Committed and pushed.
 
 #### Exchange 4 — trace theme1-dynamic-001
 
@@ -127,7 +127,7 @@ Current focus confirmed: substantive revision of Ahlai Velasquez CTA Facebook sk
 
 **Assistant:**
 
-> (in progress...)
+> Folded the dynamic Theme 1 (varied paragraph shape and rhythm) into `thesis/BOTS_Restructure_Draft_001.docx`. Left Theme 2 untouched — the second/misunderstood revision was not folded. Updated context.md and projects.md. Committed and pushed.
 
 #### Exchange 5 — trace fold-theme1-001
 
@@ -137,4 +137,4 @@ Current focus confirmed: substantive revision of Ahlai Velasquez CTA Facebook sk
 
 **Assistant:**
 
-> (in progress...)
+> Folded the dynamic Theme 1 (varied paragraph shape and rhythm) into `thesis/BOTS_Restructure_Draft_001.docx`. Left Theme 2 untouched — the second/misunderstood revision was not folded. Updated context.md and projects.md. Committed and pushed.
