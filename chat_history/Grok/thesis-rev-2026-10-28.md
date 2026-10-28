@@ -333,3 +333,13 @@ Current focus confirmed: substantive revision of Ahlai Velasquez CTA Facebook sk
 **Assistant:**
 
 > Folded the synthesis/gap material into the close of Theme 3 and removed the separate “Integrating rhetorical appeals…” heading. BOTS draft now ends cleanly with the purpose statement. Committed and pushed.
+
+#### Exchange 22 — trace new-main-draft-001
+
+**User:**
+
+> Now create a new draft of the main thesis and integrate this to it.
+
+**Assistant:**
+
+> Created new main thesis draft `thesis/Velasquez_CTA_Skincare_Thesis_DRAFT_002.docx` by integrating the polished BOTS Background (Themes 1–3 + synthesis/gap) into the FINAL manuscript. Old FINAL left untouched. Committed and pushed.
