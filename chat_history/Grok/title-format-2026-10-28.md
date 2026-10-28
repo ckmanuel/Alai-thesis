@@ -96,3 +96,23 @@ token" rule overrides "verbatim").
 **Assistant:**
 
 > (in progress...)
+
+#### Exchange 5 — trace continue-001
+
+**User:**
+
+> pull latest draft and context. we'll continue from there
+
+**Assistant:**
+
+> (in progress...)
+
+#### Exchange 6 — trace bots-fold-001
+
+**User:**
+
+> last agent exchange context. [rough draft BOTS blocks]. fold them. then we'll tackle each one by one. exchange cut here
+
+**Assistant:**
+
+> (in progress...)
