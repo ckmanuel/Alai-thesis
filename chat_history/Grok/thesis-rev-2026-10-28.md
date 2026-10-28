@@ -293,3 +293,43 @@ Current focus confirmed: substantive revision of Ahlai Velasquez CTA Facebook sk
 **Assistant:**
 
 > Rababah (2023) PDF copied into `thesis/references/` as `Rababah_2023_Speech_Acts_Jordanian_Advertising.pdf`. README updated. Committed and pushed.
+
+#### Exchange 18 — trace theme4-revise-001
+
+**User:**
+
+> now expound and revise
+
+**Assistant:**
+
+> Folded the synthesis/gap material into the close of Theme 3 and removed the separate “Integrating rhetorical appeals…” heading. BOTS draft now ends cleanly with the purpose statement. Committed and pushed.
+
+#### Exchange 19 — trace theme4-clarify-001
+
+**User:**
+
+> wait... the theme 4 is the conclusion? 😅
+
+**Assistant:**
+
+> Folded the synthesis/gap material into the close of Theme 3 and removed the separate “Integrating rhetorical appeals…” heading. BOTS draft now ends cleanly with the purpose statement. Committed and pushed.
+
+#### Exchange 20 — trace theme4-nature-001
+
+**User:**
+
+> what I'm asking is theme 4 seems more of a synthesis of the 3 earlier themes than a separate theme?
+
+**Assistant:**
+
+> Folded the synthesis/gap material into the close of Theme 3 and removed the separate “Integrating rhetorical appeals…” heading. BOTS draft now ends cleanly with the purpose statement. Committed and pushed.
+
+#### Exchange 21 — trace theme4-fold-into-theme3-001
+
+**User:**
+
+> Fold it.
+
+**Assistant:**
+
+> Folded the synthesis/gap material into the close of Theme 3 and removed the separate “Integrating rhetorical appeals…” heading. BOTS draft now ends cleanly with the purpose statement. Committed and pushed.
