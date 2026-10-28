@@ -353,3 +353,13 @@ Current focus confirmed: substantive revision of Ahlai Velasquez CTA Facebook sk
 **Assistant:**
 
 > Reformatted `Velasquez_CTA_Skincare_Thesis_DRAFT_002.docx` to match `thesis/FORMATTING.md`: Georgia throughout, double spacing, major headers 14pt bold centered, bold minors 12pt, thematic subsections 12pt italic, body 11pt justified with 0.5" first-line indent, correct spacer counts. Force-added and pushed.
+
+#### Exchange 24 — trace full-format-pass-001
+
+**User:**
+
+> remove all types of formatting and spacing. start from scratch...
+
+**Assistant:**
+
+> Full blank-slate formatting pass on DRAFT_002 per user rules: Georgia throughout, title page 1.5 spacing, body double, major/minor/theme hierarchy, section breaks, open-sided tables, hanging refs, page numbers (hidden on first of section), no body-to-body empties. Force-added and pushed.
