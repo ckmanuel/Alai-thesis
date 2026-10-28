@@ -74,13 +74,14 @@ copies already made.
 ## Current focus
 Thesis revision: Ahlai Velasquez CTA Facebook skincare ads manuscript.
 Primary file: `thesis/Velasquez_CTA_Skincare_Thesis_FINAL_2026-10-18.docx`.
-Working draft: `thesis/Velasquez_CTA_Skincare_Thesis_DRAFT_003.docx` (from FINAL + polished BOTS). Full formatting pass applied (Georgia, double spacing, open table borders, bold-spill clear, uniform body spacing, margins A4, different_first_page).
-Locked opening (Kemp 2025 + Desiderio 2026), Theme 1, Theme 2 dynamic versions now in the Background of the Study of DRAFT_003.
-Next: confirm Theme 2 / proceed to Theme 3 or remaining integration and pagination polish if needed.
+Working draft: `thesis/Velasquez_CTA_Skincare_Thesis_DRAFT_004.docx` (full reformat of DRAFT_003 per user 2026-10-28 rules: Georgia, double body / 1.15 title, L1.5" R/T/B 1.0", A4, section breaks before majors + 3 spacers, open-sided tables, page nums upper-right hidden on section first pages, images inline/scaled).
+Locked opening + Theme 1 + Theme 2 still in BOTS of DRAFT_004.
+Next: confirm Theme 2 / proceed to Theme 3 or remaining integration if needed. User may request further visual polish after reviewing DRAFT_004.
 
 ## Open threads
 - Theme 1 locked into BOTS draft (dynamic version).
 - Theme 2 locked (first dynamic version).
+- Full formatting pass completed into DRAFT_004 (user-specified rules 2026-10-28).
 - After Theme 2 is confirmed, proceed to remaining themes / integrate into main manuscript.
 - Earlier Chapter 3 drafts in archive remain reference only unless user asks to merge.
 
