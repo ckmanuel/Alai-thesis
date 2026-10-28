@@ -74,16 +74,23 @@ copies already made.
 ## Current focus
 Thesis revision: Ahlai Velasquez CTA Facebook skincare ads manuscript.
 Primary file: `thesis/Velasquez_CTA_Skincare_Thesis_FINAL_2026-10-18.docx`.
-Binding rules now in place: `thesis/FORMATTING.md`, `thesis/WRITING.md`, companion PDF, Verb Tense Matrix (FINAL DEFENSE).
-Next: begin substantive revision once user names the first section or priority.
+Working BOTS draft: `thesis/BOTS_Restructure_Draft_001.docx`.
+Theme 1 (CTA phrases as persuasive linguistic units) has been revised with dynamic paragraph rhythm and locked into the BOTS draft.
+Theme 2 (Rhetorical appeals) has a good dynamic preview ready but not yet locked (user instructed not to fold the second/misunderstood revision).
+Next: confirm/lock Theme 2, then continue to Theme 3 or full manuscript integration.
 
 ## Open threads
-- User asked for binding formatting + writing tone rules first (done).
-- Next: start substantive revision; confirm first section or priority (structure / clarity / language / argument / citations).
+- Theme 1 locked into BOTS draft (dynamic version).
+- Theme 2: keep the first dynamic preview (method + finding + implication, varied paragraphs). Do not use the later “same as Theme 1” version that caused confusion.
+- After Theme 2 is confirmed, proceed to remaining themes / integrate into main manuscript.
 - Earlier Chapter 3 drafts in archive remain reference only unless user asks to merge.
 
 ## Recently completed
 _Capped at 5 entries. Older items live in `decisions.md` and `chat_history/`._
 
+- 2026-10-28: Revised Theme 1 with varied paragraph shape/rhythm and folded into BOTS_Restructure_Draft_001.docx.
+- 2026-10-28: Produced dynamic Theme 2 preview (kept separate; not locked).
+- 2026-10-28: Verified all Theme 2 references as real; PDFs already present.
 - 2026-10-28: Added binding FORMATTING.md, WRITING.md, BAELS Thesis Companion, Verb Tense Matrix.
 - 2026-10-27: Created `thesis/` folder, uploaded FINAL Oct 18 manuscript, recovered prior drafts from thesis-memory into archive.
+
