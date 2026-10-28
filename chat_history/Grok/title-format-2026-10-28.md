@@ -37,3 +37,31 @@ token" rule overrides "verbatim").
 > All title-page text is centered, Georgia, correct sizes, line spacing 1.15. Section break after the title page so INTRODUCTION starts on a new page. Name and Date stay on page 1 (verified via PDF render).
 > 
 > File updated in place: thesis/Velasquez_CTA_Skincare_Thesis_DRAFT_004.docx
+
+#### Exchange 2 — trace 1793168899746129
+
+**User:**
+
+> use companion formatting but keep them left. only that distinction
+
+**Assistant:**
+
+> Applied Companion formatting with the single distinction you requested: minors stay left-aligned.
+> 
+> Summary of rules now in DRAFT_004:
+> 
+> Major headers (INTRODUCTION, METHODOLOGY, RESULTS..., CONCLUSION..., REFERENCES, APPENDICES + APPENDIX titles)
+> - Centered · ALL CAPS · Georgia 14 bold
+> 
+> Sub-Heading 1 (Background of the Study, Statement of the Problem, Research Design, etc.)
+> - Left-aligned (only change from Companion’s right) · sentence case · Georgia 12 bold
+> 
+> Sub-Heading 2 / themed sections (Call-to-action phrases..., Rhetorical appeals..., Directive speech acts..., PART III...)
+> - Left-aligned · sentence case · Georgia 12 italic
+> 
+> Body
+> - Justified · first-line indent 0.5″ · Georgia 11 · double spacing
+> 
+> Title page remains as previously cleaned (14 bold title, 12 regular, 1.15 spacing, centered, Name/Date on page 1).
+> 
+> File: thesis/Velasquez_CTA_Skincare_Thesis_DRAFT_004.docx (updated in place).
