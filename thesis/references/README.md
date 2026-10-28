@@ -68,12 +68,17 @@ Examples: `Arakelyan_Aleksanyan_2025_Linguistic_Peculiarities_CTA.pdf`
    File: `Dwiyanti_2024_Persuasive_Techniques_Makeup_Skincare_Video.pdf`  
    Pathos most frequent in makeup/skincare video ads.
 
-4. **Firdous, T., Li, H. F., & Saleh, A.-N. Y. A. (2023).** The Aristotelian rhetorical theory: A framework for analyzing Pakistani beauty products advertising. *Indian Journal of Mass Communication and Journalism*.  
+4. **Saad, I. T., & Ismael, A. A. (2025).** The art of selling beauty: Analyzing persuasive strategies and speech acts in social media cosmetics advertising. *Tasnim International Journal for Human, Social and Legal Sciences*.  
+   DOI: https://doi.org/10.56924/tasnim.14.2025/23  
+   File: `Saad_Ismael_2025_Persuasive_Strategies_Social_Media_Cosmetics.pdf`  
+   Ethos, pathos, logos + speech acts in Instagram/Facebook cosmetics ads.
+
+5. **Firdous, T., Li, H. F., & Saleh, A.-N. Y. A. (2023).** The Aristotelian rhetorical theory: A framework for analyzing Pakistani beauty products advertising. *Indian Journal of Mass Communication and Journalism*.  
    DOI: https://doi.org/10.54105/ijmcj.C1028.032323  
    File: `Firdous_Li_Saleh_2023_Aristotelian_Rhetoric_Pakistani_Beauty.pdf`  
    Ethos, pathos, and logos in Pakistani beauty-product TV ads.
 
-5. **Moore, S. (2020).** Rhetorical strategies of Forbes’ 2019 most valuable brands. *Elon Journal of Undergraduate Research in Communications, 11*(1).  
+6. **Moore, S. (2020).** Rhetorical strategies of Forbes’ 2019 most valuable brands. *Elon Journal of Undergraduate Research in Communications, 11*(1).  
    File: `Moore_2020_Rhetorical_Strategies_Instagram_Brands.pdf`  
    Content analysis of Instagram captions (Coca-Cola, Nike, John Deere, Nivea); pathos dominant for most brands.
 
