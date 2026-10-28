@@ -383,3 +383,13 @@ Current focus confirmed: substantive revision of Ahlai Velasquez CTA Facebook sk
 **Assistant:**
 
 > Switched to A4 paper; tightened title-page spacers (2/2/2/2 fill) so Name+Date stay on page 1; margins L1.5 R/T/B 1.0. Pushed.
+
+#### Exchange 27 — trace title-section-break-fix-001
+
+**User:**
+
+> Intro in title page. you don't seem to know how to follow instruction? format is already given explicitly but still messing it?
+
+**Assistant:**
+
+> Fixed: section break now separates title page from INTRODUCTION. Title page follows exact spacer order; INTRODUCTION starts on the next page with 3 empty spacers above it. A4 + margins kept. Pushed.
