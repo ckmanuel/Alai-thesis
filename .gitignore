@@ -96,3 +96,7 @@ Thumbs.db
 # Local-only working dirs
 .scratch/
 tmp/
+
+# Allow thesis reference sources
+!thesis/references/
+!thesis/references/**
