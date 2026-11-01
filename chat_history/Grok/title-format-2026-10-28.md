@@ -296,3 +296,13 @@ token" rule overrides "verbatim").
 **Assistant:**
 
 > DRAFT_014: pathos urgency rationale; ethos=Kelsey only; order/suggestion by framing; Yule labels honest; Anggraini not instrument source; refs Al-Subhi/Dayag/Lanzarrote/Ul Islam; drop Searle 1976.
+
+#### Exchange 25 — trace urgency-pathos-integrate-001
+
+**User:**
+
+> 1. integrate urgency-as-pathos rationale within the thesis text so it is clear to readers.
+
+**Assistant:**
+
+> DRAFT_015: integrated urgency-as-pathos rationale into Definition of Terms, coding procedure, decision table, methods, results, and conclusion for readers.
