@@ -91,7 +91,7 @@ copies already made.
 
 ## Current focus
 Thesis revision: Ahlai Velasquez CTA Facebook skincare ads.
-Working draft: `thesis/Velasquez_ThesisRevised_DRAFT_009.docx`.
+Working draft: `thesis/Velasquez_ThesisRevised_DRAFT_011.docx` (user-uploaded base, 2026-11-01).
 BOTS Themes 1–6 restored full + citation-home map. Next: Chapter 1 after BOTS (Statement of the Problem, frameworks, Significance, Definition of Terms) with linguistic claim language. Binding: analysis sequence linguistic (decisions.md).
 
 ## Open threads
@@ -104,11 +104,5 @@ BOTS Themes 1–6 restored full + citation-home map. Next: Chapter 1 after BOTS 
 ## Recently completed
 _Capped at 5 entries. Older items live in `decisions.md` and `chat_history/`._
 
-- 2026-10-28: Created DRAFT_003 from FINAL (preserves all images). Imported polished Background/theme content and structure from DRAFT_002 into it.
-- 2026-10-28: Restored missing pagination (section headers + titlePg + first-page hide) and re-embedded referenced images into DRAFT_002 per companion + FORMATTING.md.
-- 2026-10-28: Revised Theme 1 with varied paragraph shape/rhythm and folded into BOTS_Restructure_Draft_001.docx.
-- 2026-10-28: Produced dynamic Theme 2 preview (kept separate; not locked).
-- 2026-10-28: Verified all Theme 2 references as real; PDFs already present.
-- 2026-10-28: Added binding FORMATTING.md, WRITING.md, BAELS Thesis Companion, Verb Tense Matrix.
-- 2026-10-27: Created `thesis/` folder, uploaded FINAL Oct 18 manuscript, recovered prior drafts from thesis-memory into archive.
+- 2026-11-01: User uploaded `Velasquez_ThesisRevised_DRAFT_011.docx` as new base working draft (full manuscript). Set as current working file.
 

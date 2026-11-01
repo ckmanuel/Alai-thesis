@@ -95,7 +95,7 @@ token" rule overrides "verbatim").
 
 **Assistant:**
 
-> (in progress...)
+> Set `thesis/Velasquez_ThesisRevised_DRAFT_011.docx` as base working draft. Synced with remote. Ready to continue.
 
 #### Exchange 5 — trace continue-001
 
@@ -105,7 +105,7 @@ token" rule overrides "verbatim").
 
 **Assistant:**
 
-> (in progress...)
+> Set `thesis/Velasquez_ThesisRevised_DRAFT_011.docx` as base working draft. Synced with remote. Ready to continue.
 
 #### Exchange 6 — trace bots-fold-001
 
@@ -115,7 +115,7 @@ token" rule overrides "verbatim").
 
 **Assistant:**
 
-> (in progress...)
+> Set `thesis/Velasquez_ThesisRevised_DRAFT_011.docx` as base working draft. Synced with remote. Ready to continue.
 
 #### Exchange 7 — trace bots-renumber-001
 
@@ -125,7 +125,7 @@ token" rule overrides "verbatim").
 
 **Assistant:**
 
-> (in progress...)
+> Set `thesis/Velasquez_ThesisRevised_DRAFT_011.docx` as base working draft. Synced with remote. Ready to continue.
 
 #### Exchange 8 — trace theme1-expand-001
 
@@ -135,7 +135,7 @@ token" rule overrides "verbatim").
 
 **Assistant:**
 
-> (in progress...)
+> Set `thesis/Velasquez_ThesisRevised_DRAFT_011.docx` as base working draft. Synced with remote. Ready to continue.
 
 #### Exchange 9 — trace rq3-focus-001
 
@@ -145,7 +145,7 @@ token" rule overrides "verbatim").
 
 **Assistant:**
 
-> (in progress...)
+> Set `thesis/Velasquez_ThesisRevised_DRAFT_011.docx` as base working draft. Synced with remote. Ready to continue.
 
 #### Exchange 10 — trace theme1-refs-check-001
 
@@ -155,7 +155,7 @@ token" rule overrides "verbatim").
 
 **Assistant:**
 
-> (in progress...)
+> Set `thesis/Velasquez_ThesisRevised_DRAFT_011.docx` as base working draft. Synced with remote. Ready to continue.
 
 #### Exchange 11 — trace refs-upload-001
 
@@ -165,7 +165,7 @@ token" rule overrides "verbatim").
 
 **Assistant:**
 
-> (in progress...)
+> Set `thesis/Velasquez_ThesisRevised_DRAFT_011.docx` as base working draft. Synced with remote. Ready to continue.
 
 #### Exchange 12 — trace format-title-space-001
 
@@ -175,7 +175,7 @@ token" rule overrides "verbatim").
 
 **Assistant:**
 
-> (in progress...)
+> Set `thesis/Velasquez_ThesisRevised_DRAFT_011.docx` as base working draft. Synced with remote. Ready to continue.
 
 #### Exchange 13 — trace bots-recover-dedupe-001
 
@@ -185,7 +185,7 @@ token" rule overrides "verbatim").
 
 **Assistant:**
 
-> (in progress...)
+> Set `thesis/Velasquez_ThesisRevised_DRAFT_011.docx` as base working draft. Synced with remote. Ready to continue.
 
 #### Exchange 14 — trace ch1-continue-lingnote-001
 
@@ -195,7 +195,7 @@ token" rule overrides "verbatim").
 
 **Assistant:**
 
-> (in progress...)
+> Set `thesis/Velasquez_ThesisRevised_DRAFT_011.docx` as base working draft. Synced with remote. Ready to continue.
 
 #### Exchange 15 — trace framework-ling-001
 
@@ -205,4 +205,14 @@ token" rule overrides "verbatim").
 
 **Assistant:**
 
-> (in progress...)
+> Set `thesis/Velasquez_ThesisRevised_DRAFT_011.docx` as base working draft. Synced with remote. Ready to continue.
+
+#### Exchange 16 — trace draft011-base-001
+
+**User:**
+
+> upload this as the base working draft. pull latest context. we will continue from there.
+
+**Assistant:**
+
+> Set `thesis/Velasquez_ThesisRevised_DRAFT_011.docx` as base working draft. Synced with remote. Ready to continue.
