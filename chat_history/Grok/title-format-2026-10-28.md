@@ -386,3 +386,13 @@ token" rule overrides "verbatim").
 **Assistant:**
 
 > DRAFT_021: Table 1 reformatted to match other tables (open-sided borders, Georgia 11, header bold thick top/thin bottom, last row thick bottom).
+
+#### Exchange 34 — trace table1-rebuild-match-001
+
+**User:**
+
+> FIX Table 1 to visually match other tables - full structural rebuild
+
+**Assistant:**
+
+> DRAFT_021: rebuilt Table 1 with same structure as results tables (Table2 style, 8220 dxa width, fixed layout, open-sided cell borders, Georgia 11).
