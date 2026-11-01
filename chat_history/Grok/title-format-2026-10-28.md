@@ -426,3 +426,13 @@ token" rule overrides "verbatim").
 **Assistant:**
 
 > DRAFT_022 full format pass: Georgia throughout; body 11 justify double 0.5in indent; majors 14 bold center; minors 12 bold; all tables 100% width open-sided; margins 1.5/1.0 A4.
+
+#### Exchange 38 — trace strict-format-pass-002
+
+**User:**
+
+> STRICT format pass - diagnose real visual breaks then fix
+
+**Assistant:**
+
+> DRAFT_023: rebuild from 021 (undo 022 page bloat 107→95); all tables full content width open-sided consistent; title page name on page 1.
