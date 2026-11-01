@@ -236,3 +236,13 @@ token" rule overrides "verbatim").
 **Assistant:**
 
 > Applied critique fixes 1–4 and 6–8 in DRAFT_011 prose (corpus 34 captions/50 strings, Yule/Searle primary, pathos+urgency, ethos social proof, unit boundary, sampling PH/English, command/request definitional, Theme labels, Kemp early 2025, duplicate cut, Moore/De Cock refs). Item 5 reliability left pending. Table re-counts and full ref audit still need follow-up.
+
+#### Exchange 19 — trace recode-freq-refs-001
+
+**User:**
+
+> new draft. recode. add those needed frequencies. drop uncited.
+
+**Assistant:**
+
+> Created DRAFT_012: decision-table fix; Myra Kelsey/crowd-favorite → ethos; T6/T13 frequencies; dropped 14 uncited refs; ethos prose updated.
