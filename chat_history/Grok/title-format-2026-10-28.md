@@ -256,3 +256,13 @@ token" rule overrides "verbatim").
 **Assistant:**
 
 > Ripple pass on DRAFT_012: aligned corpus counts (34 captions/50 strings) across methods; Yule/Searle primary everywhere; ethos rare-not-absent and brand-level correct; Theme labels removed; pair frequencies reflected in conclusion; command/request definitional framing consistent.
+
+#### Exchange 21 — trace moore-decock-refs-001
+
+**User:**
+
+> see References pdf for Moore. remove De Cock
+
+**Assistant:**
+
+> Moore verified from PDF (Susie Moore, 2020, Elon Journal 11(1), 64–73). De Cock removed from References (not body-cited).
