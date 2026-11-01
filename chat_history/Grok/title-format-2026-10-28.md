@@ -396,3 +396,13 @@ token" rule overrides "verbatim").
 **Assistant:**
 
 > DRAFT_021: rebuilt Table 1 with same structure as results tables (Table2 style, 8220 dxa width, fixed layout, open-sided cell borders, Georgia 11).
+
+#### Exchange 35 — trace table1-fullwidth-fix-001
+
+**User:**
+
+> FIX Table 1 full width no unused right space
+
+**Assistant:**
+
+> DRAFT_021: Table 1 full content width 8307 dxa (matches coding table / page content); no right gap; decision column wider.
