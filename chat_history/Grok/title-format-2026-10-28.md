@@ -246,3 +246,13 @@ token" rule overrides "verbatim").
 **Assistant:**
 
 > Created DRAFT_012: decision-table fix; Myra Kelsey/crowd-favorite → ethos; T6/T13 frequencies; dropped 14 uncited refs; ethos prose updated.
+
+#### Exchange 20 — trace ripple-consistency-001
+
+**User:**
+
+> revise all ripple effects from this edit. keep it internally consistent.
+
+**Assistant:**
+
+> Ripple pass on DRAFT_012: aligned corpus counts (34 captions/50 strings) across methods; Yule/Searle primary everywhere; ethos rare-not-absent and brand-level correct; Theme labels removed; pair frequencies reflected in conclusion; command/request definitional framing consistent.
