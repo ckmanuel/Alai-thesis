@@ -24,6 +24,33 @@ Examples: `Arakelyan_Aleksanyan_2025_Linguistic_Peculiarities_CTA.pdf`
 
 ---
 
+
+## Theme 1 (current numbering) – Facebook / social-media advertising language as a short promotional genre
+
+### Local copies now in this folder
+
+1. **Ul Islam, Z. (2025).** *Social media persuasion in tourism: Linguistic strategies in Facebook and Instagram tourism advertisements – A critical discourse analysis* [Term paper / SSRN preprint]. Higher School of Economics.  
+   SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6037054  
+   File: `UlIslam_2025_Social_Media_Persuasion_Tourism_Facebook_Instagram.pdf`  
+   Facebook tourism ads: transactional style, imperatives, urgency lexicon, direct CTAs (vs Instagram aspirational). **Domain caveat:** tourism, not skincare. Preprint / term paper.
+
+2. **Al-Subhi, A. S. (2022).** Metadiscourse in online advertising: Exploring linguistic and visual metadiscourse in social media advertisements. *Journal of Pragmatics, 187*, 24–40.  
+   DOI: https://doi.org/10.1016/j.pragma.2021.10.027  
+   File: `Al-Subhi_2022_Metadiscourse_Online_Advertising_Social_Media.pdf`  
+   Engagement markers and directives high in SM ads. **Platform caveat:** Instagram, Snapchat, Twitter (not Facebook). Many ads from cosmetic/beauty brands.
+
+3. **Bünzli, F., & Eppler, M. J. (2025).** Calls to action and user engagement: The role of visual and verbal requests in nonprofit advocacy on Facebook. *Computers in Human Behavior Reports, 18*, Article 100611.  
+   DOI: https://doi.org/10.1016/j.chbr.2025.100611  
+   File: `Bunzli_Eppler_2025_CTA_User_Engagement_Facebook.pdf`  
+   Already listed under older Theme 1 block; Facebook verbal/visual requests.
+
+4. **Septianasari, L., Baihaqi, Y., Abqoriyyah, F. H., & Syaputri, W. (2021).** Language of persuasion in online marketing of cosmetic products: A glance of netnography in pragmatics. *PRASASTI: Journal of Linguistics, 6*(1), 74–83.  
+   DOI: https://doi.org/10.20961/prasasti.v6i1.44323  
+   File: `Septianasari_etal_2021_Language_Persuasion_Online_Marketing_Cosmetic.pdf`  
+   Directives dominate cosmetics sellers on Facebook and Instagram.
+
+---
+
 ## Theme 1 – Call-to-action phrases as persuasive linguistic units
 
 ### Local copies now in this folder
