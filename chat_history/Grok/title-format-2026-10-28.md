@@ -216,3 +216,23 @@ token" rule overrides "verbatim").
 **Assistant:**
 
 > Set `thesis/Velasquez_ThesisRevised_DRAFT_011.docx` as base working draft. Synced with remote. Ready to continue.
+
+#### Exchange 17 — trace critique-response-plan-001
+
+**User:**
+
+> somebody commented. [full critique on counts, coding rules, pathos, CTAs, reliability, sampling, Part III, references]
+
+**Assistant:**
+
+> Applied critique fixes 1–4 and 6–8 in DRAFT_011 prose (corpus 34 captions/50 strings, Yule/Searle primary, pathos+urgency, ethos social proof, unit boundary, sampling PH/English, command/request definitional, Theme labels, Kemp early 2025, duplicate cut, Moore/De Cock refs). Item 5 reliability left pending. Table re-counts and full ref audit still need follow-up.
+
+#### Exchange 18 — trace critique-fixes-001
+
+**User:**
+
+> 1. Fix 2. Fix 3. Fix 4. Fix 5. Keep as is. Pending 6. Fix 7. Fix 8. Fix
+
+**Assistant:**
+
+> Applied critique fixes 1–4 and 6–8 in DRAFT_011 prose (corpus 34 captions/50 strings, Yule/Searle primary, pathos+urgency, ethos social proof, unit boundary, sampling PH/English, command/request definitional, Theme labels, Kemp early 2025, duplicate cut, Moore/De Cock refs). Item 5 reliability left pending. Table re-counts and full ref audit still need follow-up.
