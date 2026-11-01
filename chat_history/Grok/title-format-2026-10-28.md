@@ -366,3 +366,13 @@ token" rule overrides "verbatim").
 **Assistant:**
 
 > DRAFT_020: all tables numbered Table 1–15 (ambiguous cases, coding scheme, appeals, subtypes, co-occurrence); body cross-refs updated.
+
+#### Exchange 32 — trace fix-table1-ambiguous-001
+
+**User:**
+
+> fix ambiguous cases table: no identifiable appeal = still coded
+
+**Assistant:**
+
+> DRAFT_021: Table 1 decisions clarified—Include and code vs Exclude; no identifiable appeal still coded for subtype.
