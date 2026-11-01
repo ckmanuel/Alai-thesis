@@ -346,3 +346,13 @@ token" rule overrides "verbatim").
 **Assistant:**
 
 > DRAFT_018: pathos time-word test applied (pathos 15, no-appeal 14); corpus 32 contributing captions/45 strings; order framing vs Pennock-Speck; single-coder/sampling limits; CTA unit; Searle ref; Ul Islam caveat.
+
+#### Exchange 30 — trace ambiguous-cases-table-001
+
+**User:**
+
+> put ambiguous cases in methodology table not definition of terms; check hedging thesis
+
+**Assistant:**
+
+> DRAFT_019: ambiguous cases moved to Methodology Table 1; Definition of Terms slimmed; results tables renumbered 2–14.
