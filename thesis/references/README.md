@@ -157,6 +157,28 @@ Examples: `Arakelyan_Aleksanyan_2025_Linguistic_Peculiarities_CTA.pdf`
 **Method-fit note:** Theme 4 focuses on directive **form and force** in promotional lines (subtypes for CTA coding). Do not thicken with engagement/effectiveness studies.
 
 
+## Theme 5 – Philippine and beauty advertising language
+
+### Local copies now in this folder
+
+1. **Dayag, D. T. (2008).** The discourse of print advertising in the Philippines: Generic structures and linguistic features. In R. E. O. Roxas (Ed.), *Proceedings of the 22nd Pacific Asia Conference on Language, Information and Computation* (pp. 1–15). De La Salle University.  
+   Open PDF: https://aclanthology.org/Y08-1001.pdf  
+   File: `Dayag_2008_Discourse_Print_Advertising_Philippines.pdf`  
+   PH magazine ads incl. cosmetics/beauty; reason (vs tickle) preference; direct moves; assertives/directives.
+
+2. **Fernandez, E. J. (2013).** Discourse analysis of persuasive language in Philippine print advertising. *UIC Research Journal, 19*(1), 127–142.  
+   DOI: https://doi.org/10.17158/482  
+   Open PDF: https://www.ejournals.ph/uploads/archive/UICRJ/Vol.%2019%20No.%201%20(2013)/GPGS/8.pdf  
+   File: `Fernandez_2013_Discourse_Persuasive_Language_Philippine_Print_Advertising.pdf`  
+   115 PH print beauty ads; imperatives, problem–solution, emotion/image appeals, related features.
+
+3. **Lanzarrote, J. D., Rallos, C. J. D., & Tan-de Ramos, J. (2025).** Beauty ideology: Critical discourse analysis of online Filipino beauty product advertisements. *Journal of Pragmatics and Discourse Analysis, 4*(3), 24–42.  
+   DOI: https://doi.org/10.32996/jpda.2025.4.3.3  
+   File: `Lanzarrote_Rallos_Tan-de_Ramos_2025_Beauty_Ideology_Online_Filipino_Beauty_Ads.pdf`  
+   Online Filipino beauty ads; **use for textual features only** (emotive language, pseudo-scientific terms, personalization)—not ideology critique.
+
+**Method-fit note:** Theme 5 supplies local/product-class context for CTA form. Keep Lanzarrote at feature level only (binding rule).
+
 ## Theme 6 – Integrating rhetorical appeals and directive subtypes in CTA phrases
 
 ### Local copies now in this folder
