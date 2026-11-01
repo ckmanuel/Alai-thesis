@@ -286,3 +286,13 @@ token" rule overrides "verbatim").
 **Assistant:**
 
 > DRAFT_013 ripple: results/methods/conclusion aligned to 45 strings; brand notes on exclusions; combined/no-appeal coding language; methods exclusion list includes benefit-only lines.
+
+#### Exchange 24 — trace panel-critique-2-001
+
+**User:**
+
+> panel feedback: urgency pathos, ethos distinctive vs dominant, order/suggestion verbs, Yule definitions, refs gaps
+
+**Assistant:**
+
+> DRAFT_014: pathos urgency rationale; ethos=Kelsey only; order/suggestion by framing; Yule labels honest; Anggraini not instrument source; refs Al-Subhi/Dayag/Lanzarrote/Ul Islam; drop Searle 1976.
