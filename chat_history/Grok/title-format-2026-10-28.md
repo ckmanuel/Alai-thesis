@@ -166,3 +166,13 @@ token" rule overrides "verbatim").
 **Assistant:**
 
 > (in progress...)
+
+#### Exchange 12 — trace format-title-space-001
+
+**User:**
+
+> pull latest draft and context. we'll continue from there. title format follow companion format properly. remove unnecessary empty spacing.
+
+**Assistant:**
+
+> (in progress...)
