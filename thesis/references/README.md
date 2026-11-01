@@ -51,7 +51,7 @@ Examples: `Arakelyan_Aleksanyan_2025_Linguistic_Peculiarities_CTA.pdf`
 
 ---
 
-## Theme 1 – Call-to-action phrases as persuasive linguistic units
+## Theme 2 – Call-to-action phrases as persuasive linguistic units
 
 ### Local copies now in this folder
 
@@ -77,41 +77,41 @@ Examples: `Arakelyan_Aleksanyan_2025_Linguistic_Peculiarities_CTA.pdf`
 
 ---
 
-## Theme 2 – Rhetorical appeals in advertising discourse
+## Theme 3 – Rhetorical appeals in advertising discourse
 
 ### Local copies now in this folder
 
-1. **Talaue, G. M. (2022).** Aristotle’s rhetorical triangle as applied to advertisements: Its impact to Saudi Arabian college student consumers. *International Journal of Applied Management Theory and Research, 4*(1), 1–18.  
+1. **De Castro, G. L., & Martinez, S. P. (2025).** Rhetorical appeals across selected Philippine bank advertising on Facebook. *Southern Semiotic Review*, (22), 243–262.  
+   DOI: https://doi.org/10.33234/SSR.22.13  
+   Open PDF: http://www.southernsemioticreview.net/wp-content/uploads/2025/08/de-Castro_SSR-22-2025-ii_13-Google-Docs.pdf  
+   File: `DeCastro_Martinez_2025_Rhetorical_Appeals_Philippine_Bank_Facebook.pdf`  
+   PH Facebook picture ads (banks); ethos+logos combination most frequent.
+
+2. **Dwiyanti, W. G. (2024).** Persuasive techniques in makeup and skincare video advertisements. *JLT Jurnal Linguistik Terapan, 14*(1), 27–37.  
+   https://jurnal.polinema.ac.id/index.php/jlt/article/view/4558  
+   Open PDF: https://jurnal.polinema.ac.id/index.php/jlt/article/download/4558/4192  
+   File: `Dwiyanti_2024_Persuasive_Techniques_Makeup_Skincare_Video.pdf`  
+   Makeup/skincare video ads; pathos most frequent among ethos/pathos/logos.
+
+3. **Firdous, T., Li, H. F., & Saleh, A.-N. Y. A. (2023).** The Aristotelian rhetorical theory: A framework for analyzing Pakistani beauty products advertising. *Indian Journal of Mass Communication and Journalism, 2*(3), 1–7.  
+   DOI: https://doi.org/10.54105/ijmcj.C1028.032323  
+   Open PDF: https://www.ijmcj.latticescipub.com/wp-content/uploads/papers/v2i3/C1028032323.pdf  
+   File: `Firdous_Li_Saleh_2023_Aristotelian_Rhetoric_Pakistani_Beauty.pdf`  
+   Pakistani beauty TV ads; all three appeals used.
+
+4. **Saad, I. T., & Ismael, A. A. (2025).** The art of selling beauty: Analyzing persuasive strategies and speech acts in social media cosmetics advertising.  
+   File: `Saad_Ismael_2025_Persuasive_Strategies_Social_Media_Cosmetics.pdf`  
+   Cosmetics on Instagram/Facebook; ethos, pathos, logos + speech acts (bridges Theme 3 and joint gap).
+
+5. **Talaue, G. M. (2022).** Aristotle’s rhetorical triangle as applied to advertisements: Its impact to Saudi Arabian college student consumers. *International Journal of Applied Management Theory and Research, 4*(1), 1–18.  
    DOI: https://doi.org/10.4018/IJAMTR.300280  
    File: `Talaue_2022_Aristotle_Rhetorical_Triangle_Saudi_Ads.pdf`  
-   Ethos perceived as strongest appeal (57%).
+   Consumer preference study; use lightly only (audience/culture can shift appeal ranking). Not a linguistic coding of ad text.
 
-2. **De Castro, G. L., & Martinez, S. P. (2025).** Rhetorical appeals across selected Philippine bank advertising on Facebook. *Southern Semiotic Review*, (22).  
-   DOI: https://doi.org/10.33234/SSR.22.13  
-   File: `DeCastro_Martinez_2025_Rhetorical_Appeals_Philippine_Bank_Facebook.pdf`  
-   Combination of ethos and logos most frequent in Philippine bank Facebook ads.
+**Method-fit note:** Theme 3 thickens with sources that **code or describe appeals in ad language** (beauty and/or PH/digital). Avoid engagement ROI or pure consumer-impact papers as primary pillars.
 
-3. **Dwiyanti, W. G. (2024).** Persuasive techniques in makeup and skincare video advertisements. *JLT Jurnal Linguistik Terapan, 14*(1), 27–??.  
-   File: `Dwiyanti_2024_Persuasive_Techniques_Makeup_Skincare_Video.pdf`  
-   Pathos most frequent in makeup/skincare video ads.
 
-4. **Saad, I. T., & Ismael, A. A. (2025).** The art of selling beauty: Analyzing persuasive strategies and speech acts in social media cosmetics advertising. *Tasnim International Journal for Human, Social and Legal Sciences*.  
-   DOI: https://doi.org/10.56924/tasnim.14.2025/23  
-   File: `Saad_Ismael_2025_Persuasive_Strategies_Social_Media_Cosmetics.pdf`  
-   Ethos, pathos, logos + speech acts in Instagram/Facebook cosmetics ads.
-
-5. **Firdous, T., Li, H. F., & Saleh, A.-N. Y. A. (2023).** The Aristotelian rhetorical theory: A framework for analyzing Pakistani beauty products advertising. *Indian Journal of Mass Communication and Journalism*.  
-   DOI: https://doi.org/10.54105/ijmcj.C1028.032323  
-   File: `Firdous_Li_Saleh_2023_Aristotelian_Rhetoric_Pakistani_Beauty.pdf`  
-   Ethos, pathos, and logos in Pakistani beauty-product TV ads.
-
-6. **Moore, S. (2020).** Rhetorical strategies of Forbes’ 2019 most valuable brands. *Elon Journal of Undergraduate Research in Communications, 11*(1).  
-   File: `Moore_2020_Rhetorical_Strategies_Instagram_Brands.pdf`  
-   Content analysis of Instagram captions (Coca-Cola, Nike, John Deere, Nivea); pathos dominant for most brands.
-
----
-
-## Theme 3 – Directive speech acts in promotional language
+## Theme 4 – Directive speech acts in promotional language
 
 ### Local copies now in this folder
 
@@ -154,7 +154,7 @@ No exact matching PDF was uploaded in this batch. The claim in the current Theme
 
 ---
 
-## Theme 4 – Integrating rhetorical appeals and directive subtypes in CTA phrases
+## Theme 6 – Integrating rhetorical appeals and directive subtypes in CTA phrases
 
 ### Local copies now in this folder
 
