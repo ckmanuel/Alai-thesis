@@ -356,3 +356,13 @@ token" rule overrides "verbatim").
 **Assistant:**
 
 > DRAFT_019: ambiguous cases moved to Methodology Table 1; Definition of Terms slimmed; results tables renumbered 2–14.
+
+#### Exchange 31 — trace number-all-tables-001
+
+**User:**
+
+> put numerical number for all tables so they can be easily referred
+
+**Assistant:**
+
+> DRAFT_020: all tables numbered Table 1–15 (ambiguous cases, coding scheme, appeals, subtypes, co-occurrence); body cross-refs updated.
