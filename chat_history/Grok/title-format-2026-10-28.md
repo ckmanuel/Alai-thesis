@@ -276,3 +276,13 @@ token" rule overrides "verbatim").
 **Assistant:**
 
 > DRAFT_013: excluded 5 benefit-only strings from tables; corpus now 34 captions / 45 CTA strings; T6/T12/T13 and prose recount.
+
+#### Exchange 23 — trace draft013-ripple-001
+
+**User:**
+
+> update affected ripple.
+
+**Assistant:**
+
+> DRAFT_013 ripple: results/methods/conclusion aligned to 45 strings; brand notes on exclusions; combined/no-appeal coding language; methods exclusion list includes benefit-only lines.
