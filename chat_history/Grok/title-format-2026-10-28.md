@@ -316,3 +316,13 @@ token" rule overrides "verbatim").
 **Assistant:**
 
 > DRAFT_016: Table 12 label on subtype summary; definition term-only bold; Methodology no longer states order 39 / suggestion 6.
+
+#### Exchange 27 — trace recode-logos-ethos-wording-001
+
+**User:**
+
+> recode Sept 28-30 and this month as logos; fix two ethos/social-proof leftovers; strengthen subtype source wording
+
+**Assistant:**
+
+> DRAFT_017: recoded dated discounts to logos; pathos operational test; ethos wording cleanup; Order without ordinary usage; dropped Anggraini from refs.
