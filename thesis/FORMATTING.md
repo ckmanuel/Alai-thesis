@@ -87,7 +87,7 @@ Background of the Study, Statement of the Problem, Research Framework, Significa
 | Property | Value |
 |----------|--------|
 | Font | Georgia **12 bold** |
-| Alignment | Left |
+| Alignment | **Right** (BAELS Companion) |
 | Indent | None |
 | Spacers before | 1 (skip if it already follows a major’s after-spacers) |
 | Spacers after | 0 |
@@ -100,7 +100,7 @@ Part I / Part II / Part III titles, discussion theme heads, italic scope notes
 | Property | Value |
 |----------|--------|
 | Font | Georgia **12 italic** (not bold) |
-| Alignment | Left |
+| Alignment | **Right** (BAELS Companion) |
 | Indent | None |
 | Spacers before | 1 (same rule as bold minors) |
 | Spacers after | 0 |
