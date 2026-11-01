@@ -266,3 +266,13 @@ token" rule overrides "verbatim").
 **Assistant:**
 
 > Moore verified from PDF (Susie Moore, 2020, Elon Journal 11(1), 64–73). De Cock removed from References (not body-cited).
+
+#### Exchange 22 — trace strict-cta-exclusion-001
+
+**User:**
+
+> new draft. apply stricter exclusion of benefit-like strings to tables
+
+**Assistant:**
+
+> DRAFT_013: excluded 5 benefit-only strings from tables; corpus now 34 captions / 45 CTA strings; T6/T12/T13 and prose recount.
