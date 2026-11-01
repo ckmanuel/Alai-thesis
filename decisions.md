@@ -14,6 +14,12 @@ Entry template:
 - **Rejected:** <alternatives and why not>
 -->
 
+## 2026-11-01: Analysis sequence stays linguistic (binding)
+- **Decision:** The methodology flow is fixed: (1) corpus of CTA phrases, (2) prepare items, (3) code dominant rhetorical appeal with caption support, (4) code directive subtype (Yule via Anggraini & Afriana), (5) pair appeal × subtype, (6) present Parts I–III by RQ. Throughout, claims stay **linguistic**: form, force, co-occurrence, and how wording realizes appeal/subtype. Do not frame analysis or discussion as psychological effect (persuasion-as-reader-impact, engagement, compliance, “what the ad does to consumers”).
+- **Why:** Panel and method require ELS focus. RQ wording can stay; the answer frame is textual patterning, not behavioral outcome. Same flow, different claim type.
+- **How to write:** Prefer “worded as / realized through / coded as / co-occurs in / pattern in the corpus.” Avoid “persuades the reader / triggers / drives engagement / constructs meaning that leads to action” as main claims.
+- **Rejected:** Changing RQs or dropping Part III; keeping “construction of persuasive meaning” as the primary aim language in Ch.1–3 discussion.
+
 ## 2026-11-01: BOTS no-stretch and linguistic framing (binding)
 - **Decision:** For all Background of the Study themes, the gate is method-fit, not a fixed list of banned papers. Do not reintroduce or add sources that pull the review off form–function analysis of CTA phrases (rhetorical appeals + directive subtypes). Thicken only with on-topic linguistic sources that support that analysis. Framing stays linguistic: how appeals and subtypes are **realized / patterned** in CTA wording — not marketing effectiveness or "construction of persuasive meaning" as the main claim. Examples of off-method drift (not exhaustive): engagement/effectiveness metrics, activism discourse, reactance, unrelated genres, consumer psychology without linguistic coding, brand ROI, ideology-only critique, platform algorithm mechanics, length-padding.
 - **Why:** Stretch sources diluted the ELS focus; effectiveness framing drifts from the method (discourse analysis of form and force, not clicks or sales). A soft "keep in mind" in Current focus is easy to override; a fixed name list is too narrow for new forms of drift. This is a standing project decision.

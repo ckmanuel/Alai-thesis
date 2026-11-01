@@ -56,6 +56,11 @@ lesson, say so in your reply: `applied lesson: <title>`. Other retrieval
 tools are described in `RETRIEVAL.md`.
 
 
+
+## BINDING: Analysis sequence (linguistic claim type)
+
+Same method flow as Methodology (corpus → prepare → code appeal → code subtype → pair → Parts I–III). Claims are form/force/co-occurrence in CTA wording — not psychological effect. Prefer: worded as / realized through / coded as / co-occurs / pattern in the corpus. See decisions.md 2026-11-01 Analysis sequence stays linguistic.
+
 ## BINDING: BOTS literature (do not override)
 
 For **all** Background of the Study themes, the gate is **method-fit**, not a fixed list of banned papers:
@@ -85,11 +90,9 @@ or rotate it first. Rewriting history is a last resort and doesn't reach
 copies already made.
 
 ## Current focus
-Thesis revision: Ahlai Velasquez CTA Facebook skincare ads manuscript.
-Primary file: `thesis/Velasquez_CTA_Skincare_Thesis_FINAL_2026-10-18.docx`.
-Working draft: `thesis/Velasquez_ThesisRevised_DRAFT_009.docx` (BOTS expanded and folded from last-agent rough draft).
-Prior base: DRAFT_006 preserved.
-Next: Statement of the Problem / Ch.2 check. All BOTS Themes 1–6 expanded in DRAFT_009. See BINDING rule.
+Thesis revision: Ahlai Velasquez CTA Facebook skincare ads.
+Working draft: `thesis/Velasquez_ThesisRevised_DRAFT_009.docx`.
+BOTS Themes 1–6 restored full + citation-home map. Next: Chapter 1 after BOTS (Statement of the Problem, frameworks, Significance, Definition of Terms) with linguistic claim language. Binding: analysis sequence linguistic (decisions.md).
 
 ## Open threads
 - Theme 1 locked into BOTS draft (dynamic version).
