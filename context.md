@@ -89,7 +89,7 @@ Thesis revision: Ahlai Velasquez CTA Facebook skincare ads manuscript.
 Primary file: `thesis/Velasquez_CTA_Skincare_Thesis_FINAL_2026-10-18.docx`.
 Working draft: `thesis/Velasquez_ThesisRevised_DRAFT_009.docx` (BOTS expanded and folded from last-agent rough draft).
 Prior base: DRAFT_006 preserved.
-Next: Theme 6. Theme 5 PH/beauty language expanded+folded in DRAFT_009; Dayag/Fernandez/Lanzarrote in repo. See BINDING rule.
+Next: Statement of the Problem / Ch.2 check. All BOTS Themes 1–6 expanded in DRAFT_009. See BINDING rule.
 
 ## Open threads
 - Theme 1 locked into BOTS draft (dynamic version).

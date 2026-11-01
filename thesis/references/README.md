@@ -181,21 +181,27 @@ Examples: `Arakelyan_Aleksanyan_2025_Linguistic_Peculiarities_CTA.pdf`
 
 ## Theme 6 – Integrating rhetorical appeals and directive subtypes in CTA phrases
 
-### Local copies now in this folder
+### Local copies now in this folder (synthesis of prior themes)
 
-1. **Saad, I. T., & Ismael, A. A. (2025).** The art of selling beauty: Analyzing persuasive strategies and speech acts in social media cosmetics advertising. *Tasnim International Journal for Human, Social and Legal Sciences*.  
-   DOI: https://doi.org/10.56924/tasnim.14.2025/23  
+1. **Saad, I. T., & Ismael, A. A. (2025).** The art of selling beauty: Analyzing persuasive strategies and speech acts in social media cosmetics advertising.  
    File: `Saad_Ismael_2025_Persuasive_Strategies_Social_Media_Cosmetics.pdf`  
-   Explicit joint use of rhetorical appeals (ethos, pathos, logos) and speech-act categories in Instagram/Facebook cosmetics ads.
+   Joint appeals + speech acts in SM cosmetics (closest parallel).
 
-2. **Rababah, L. M. (2023).** Examining speech acts in Jordanian advertising: Pragmatic functions, linguistic features, and rhetorical devices. *Journal of Ethnic and Cultural Studies, 10*(5), 212–223.  
-   DOI: https://doi.org/10.29333/ejecs/1722  
+2. **Rababah, L. M. (2023).** Examining speech acts in Jordanian advertising… *Journal of Ethnic and Cultural Studies, 10*(5), 212–223.  
    File: `Rababah_2023_Speech_Acts_Jordanian_Advertising.pdf`  
-   Combines Searle’s speech-act taxonomy with rhetorical devices (hyperbole, metaphor, rhetorical questions) in print advertising.
+   Directives + rhetorical devices.
 
-### Status note
-- All core sources for the Integrating section are now on file.
-- Ready for expound-and-revise of Theme 4 once user confirms.
+3. **Simon, S., & Dejica-Cartis, D. (2015).** Speech acts / directions in written advertisements (both papers).  
+   Files: Simon speech-acts + directions companion in `thesis/references/`  
+   Directions combined with persuasive macro-acts.
+
+4. **Yule (1996)** + **Anggraini & Afriana (2023)** — subtype coding scale (Theme 4).  
+5. Aristotle’s appeals — dominant-appeal coding (Theme 3).
+
+**Gap stated:** joint coding of dominant appeal + Yule subtype on the **CTA phrase** unit in PH Facebook skincare captions.
+
+**Method-fit note:** Theme 6 is synthesis only. Do not reintroduce stretch sources cut earlier.
+
 
 ## Status
 - Opening BOTS citations locked (Kemp + Desiderio/CCIP).
