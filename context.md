@@ -1,3 +1,5 @@
+Working thesis DOCX: `thesis/Velasquez_Thesis_WORKING.docx` (overwrite in place; no draft number inflation).
+
 # Current Context
 
 Read this first after cloning.
@@ -91,18 +93,18 @@ copies already made.
 
 ## Current focus
 Thesis revision: Ahlai Velasquez CTA Facebook skincare ads.
-Working draft: `thesis/Velasquez_ThesisRevised_DRAFT_023.docx` (recode + frequencies + uncited drop + full ripple consistency pass).
+Working draft: `thesis/Velasquez_ThesisRevised_WORKING.docx` (recode + frequencies + uncited drop + full ripple consistency pass).
 BOTS Themes 1–6 restored full + citation-home map. Next: Chapter 1 after BOTS (Statement of the Problem, frameworks, Significance, Definition of Terms) with linguistic claim language. Binding: analysis sequence linguistic (decisions.md).
 
 ## Open threads
 - Theme 1 locked into BOTS draft (dynamic version).
 - Theme 2 locked (first dynamic version).
-- Full formatting pass completed into DRAFT_004 (user-specified rules 2026-10-28).
+- Full formatting pass completed into WORKING (user-specified rules 2026-10-28).
 - After Theme 2 is confirmed, proceed to remaining themes / integrate into main manuscript.
 - Earlier Chapter 3 drafts in archive remain reference only unless user asks to merge.
 
 ## Recently completed
 _Capped at 5 entries. Older items live in `decisions.md` and `chat_history/`._
 
-- 2026-11-01: User uploaded `Velasquez_ThesisRevised_DRAFT_011.docx` as new base working draft (full manuscript). Set as current working file.
+- 2026-11-01: User uploaded `Velasquez_ThesisRevised_WORKING.docx` as new base working draft (full manuscript). Set as current working file.
 

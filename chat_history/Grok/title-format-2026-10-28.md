@@ -436,3 +436,13 @@ token" rule overrides "verbatim").
 **Assistant:**
 
 > DRAFT_023: rebuild from 021 (undo 022 page bloat 107→95); all tables full content width open-sided consistent; title page name on page 1.
+
+#### Exchange 39 — trace fix-versioning-001
+
+**User:**
+
+> Fix draft versioning: single working file, stop inflation
+
+**Assistant:**
+
+> Fixed versioning: single working file thesis/Velasquez_Thesis_WORKING.docx; archived 22 numbered drafts; FORMATTING.md binding updated.

@@ -2,7 +2,9 @@
 
 This file is the **binding** layout specification for the Velasquez CTA skincare thesis.
 
-**Working file:** `thesis/Velasquez_CTA_Skincare_Thesis_FINAL_2026-10-18.docx` (overwrite in place for small edits).
+**Working file:** `thesis/Velasquez_Thesis_WORKING.docx` (overwrite in place for all routine and format edits).
+
+Do **not** create `DRAFT_001`, `DRAFT_002`, … or any new numbered/dated DOCX unless the user explicitly asks. Older numbered drafts live in `thesis/archive/draft_versions/` for history only.
 
 If chat instructions and this file conflict, **this file wins** for layout.
 
@@ -12,10 +14,12 @@ Sources adapted from the BAELS Thesis Companion, the Verb Tense Matrix, and the 
 
 ## Versioning
 
-- Do not inflate draft numbers for format-only or routine edits.
-- Overwrite the current working DOCX for small changes.
-- New dated or numbered file only when the user explicitly asks, or for a major revision.
+- **One working file only:** `thesis/Velasquez_Thesis_WORKING.docx`.
+- Overwrite that file in place for all content, format, and routine edits.
+- Do **not** create new numbered drafts (`DRAFT_0xx`) or new dated filenames unless the user explicitly orders a new version.
+- New dated or numbered file only when the user explicitly asks.
 - No PDF of the working draft unless the user asks.
+- Prior numbered drafts are archived under `thesis/archive/draft_versions/` and must not be treated as the working file.
 
 ---
 
