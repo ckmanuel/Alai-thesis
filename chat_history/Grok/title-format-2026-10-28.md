@@ -326,3 +326,13 @@ token" rule overrides "verbatim").
 **Assistant:**
 
 > DRAFT_017: recoded dated discounts to logos; pathos operational test; ethos wording cleanup; Order without ordinary usage; dropped Anggraini from refs.
+
+#### Exchange 28 — trace full-ripple-check-017-001
+
+**User:**
+
+> make full pass ripple check.
+
+**Assistant:**
+
+> Full ripple on DRAFT_017: ground truth n=45 matches T6/T12; T13+conclusion pair counts synced (Logos+Order 7, Logos+Suggestion 2); no social-proof/ethos leftovers; discount lines logos.
