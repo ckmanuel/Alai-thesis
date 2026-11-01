@@ -306,3 +306,13 @@ token" rule overrides "verbatim").
 **Assistant:**
 
 > DRAFT_015: integrated urgency-as-pathos rationale into Definition of Terms, coding procedure, decision table, methods, results, and conclusion for readers.
+
+#### Exchange 26 — trace table12-bold-methods-001
+
+**User:**
+
+> Table 12 missing; subtype summary unnumbered; definitions bold; Methodology states results
+
+**Assistant:**
+
+> DRAFT_016: Table 12 label on subtype summary; definition term-only bold; Methodology no longer states order 39 / suggestion 6.
