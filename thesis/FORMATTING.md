@@ -2,7 +2,7 @@
 
 This file is the **binding** layout specification for the Velasquez CTA skincare thesis.
 
-**Working file:** `thesis/Velasquez_Thesis_WORKING.docx` (overwrite in place). Numbered `DRAFT_0xx` files under `thesis/` are retained as history; do not remove them. Do not create a new number unless the user asks.
+**Working file:** `thesis/Velasquez_ThesisRevised_DRAFT_023.docx` (version number required on the working draft; overwrite in place).
 
 If chat instructions and this file conflict, **this file wins** for layout.
 
@@ -12,12 +12,12 @@ Sources adapted from the BAELS Thesis Companion, the Verb Tense Matrix, and the 
 
 ## Versioning
 
-- **Active working file:** `thesis/Velasquez_Thesis_WORKING.docx` (same content as the latest numbered draft).
-- Overwrite **WORKING** in place for routine content and format edits.
-- **Do not delete or archive existing numbered drafts** (`DRAFT_0xx`). They are history and stay under `thesis/`.
-- **Do not create a new numbered draft** unless the user explicitly asks (e.g. “new draft” / “save as DRAFT_024”).
-- When the user does ask for a new numbered draft, copy WORKING → the next number and keep WORKING updated.
-- No PDF of the working draft unless the user asks.
+- **Active working draft (with version number):** `thesis/Velasquez_ThesisRevised_DRAFT_023.docx`
+- Always keep a **version number** on the working draft filename. Do not use a versionless name as the primary working file.
+- Overwrite the current numbered working draft in place for routine content and format edits.
+- **Do not** create the next number (`DRAFT_024`, etc.) unless the user explicitly asks.
+- When the user asks for a new draft version, copy the current file to the next number and treat that new number as the working draft.
+- Keep prior numbered drafts under `thesis/` as history. Do not delete them.
 
 
 ---

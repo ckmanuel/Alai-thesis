@@ -1,4 +1,4 @@
-Working thesis DOCX: `thesis/Velasquez_Thesis_WORKING.docx` (overwrite in place; no draft number inflation).
+Working thesis DOCX: `thesis/Velasquez_ThesisRevised_DRAFT_023.docx` (overwrite in place; no draft number inflation).
 
 # Current Context
 

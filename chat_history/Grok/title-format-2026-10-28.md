@@ -446,3 +446,23 @@ token" rule overrides "verbatim").
 **Assistant:**
 
 > Fixed versioning: single working file thesis/Velasquez_Thesis_WORKING.docx; archived 22 numbered drafts; FORMATTING.md binding updated.
+
+#### Exchange 40 — trace restore-drafts-001
+
+**User:**
+
+> Restore draft versions; keep WORKING as active; do not delete history
+
+**Assistant:**
+
+> Working draft keeps version number: thesis/Velasquez_ThesisRevised_DRAFT_023.docx. No versionless primary name.
+
+#### Exchange 41 — trace version-number-on-working-001
+
+**User:**
+
+> Working draft keeps version number DRAFT_023; drop versionless WORKING name as primary
+
+**Assistant:**
+
+> Working draft keeps version number: thesis/Velasquez_ThesisRevised_DRAFT_023.docx. No versionless primary name.
