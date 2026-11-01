@@ -376,3 +376,13 @@ token" rule overrides "verbatim").
 **Assistant:**
 
 > DRAFT_021: Table 1 decisions clarified—Include and code vs Exclude; no identifiable appeal still coded for subtype.
+
+#### Exchange 33 — trace table1-format-match-001
+
+**User:**
+
+> fix Table 1 format to match other tables
+
+**Assistant:**
+
+> DRAFT_021: Table 1 reformatted to match other tables (open-sided borders, Georgia 11, header bold thick top/thin bottom, last row thick bottom).
