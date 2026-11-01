@@ -55,6 +55,16 @@ also before solving a problem that feels familiar. When you use a saved
 lesson, say so in your reply: `applied lesson: <title>`. Other retrieval
 tools are described in `RETRIEVAL.md`.
 
+
+## BINDING: BOTS literature (do not override)
+
+For **all** Background of the Study themes:
+1. Do **not** reintroduce sources previously cut as off-method or stretch (engagement/effectiveness, activism discourse, reactance, unrelated genres).
+2. Thicken only with on-topic **linguistic** sources that support form–function analysis of CTA phrases (rhetorical appeals + directive subtypes).
+3. Framing stays linguistic: appeals and subtypes are **realized / patterned** in CTA wording — not marketing effectiveness.
+
+This rule is also recorded in `decisions.md` (2026-11-01). Prefer that entry if focus text conflicts.
+
 ## At session end
 
 1. Promote anything durable from this session: mistakes and fixes to
@@ -76,7 +86,7 @@ Thesis revision: Ahlai Velasquez CTA Facebook skincare ads manuscript.
 Primary file: `thesis/Velasquez_CTA_Skincare_Thesis_FINAL_2026-10-18.docx`.
 Working draft: `thesis/Velasquez_ThesisRevised_DRAFT_009.docx` (BOTS expanded and folded from last-agent rough draft).
 Prior base: DRAFT_006 preserved.
-Next: Theme 2 expansion (CTA as linguistic units) after user upload. Theme 2 source PDFs now in references/: Arakelyan_Aleksanyan_2025, Nguyen_2025_Creative_CTA, Simon_Dejica-Cartis_2015_Speech_Acts, Simon_Dejica-Cartis_2015_Directions (companion), Aditria_Rizqiya_2021 (cosmetic written ads), Nguyen_Thi_Huyen_Trang_2025 (directives in CTA online ads). BOTS no-stretch rule (all themes): do not reintroduce sources cut for being off-method or stretch (e.g. engagement/effectiveness metrics, activism discourse, reactance, unrelated genres). Thicken only with on-topic linguistic sources that support form–function analysis of CTA phrases (appeals + directive subtypes). Keep linguistic framing: realized/patterned, not effectiveness.
+Next: Theme 2 expansion (CTA as linguistic units). Sources ready in references/. See BINDING rule above.
 
 ## Open threads
 - Theme 1 locked into BOTS draft (dynamic version).
