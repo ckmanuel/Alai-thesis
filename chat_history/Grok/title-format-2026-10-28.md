@@ -176,3 +176,33 @@ token" rule overrides "verbatim").
 **Assistant:**
 
 > (in progress...)
+
+#### Exchange 13 — trace bots-recover-dedupe-001
+
+**User:**
+
+> recover the full thematic that was removed...
+
+**Assistant:**
+
+> (in progress...)
+
+#### Exchange 14 — trace ch1-continue-lingnote-001
+
+**User:**
+
+> keep note... continue chapter 1
+
+**Assistant:**
+
+> (in progress...)
+
+#### Exchange 15 — trace framework-ling-001
+
+**User:**
+
+> research framework linguistic refocus
+
+**Assistant:**
+
+> (in progress...)
