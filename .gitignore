@@ -100,3 +100,4 @@ tmp/
 # Allow thesis reference sources
 !thesis/references/
 !thesis/references/**
+thesis/archive/draft_versions/
