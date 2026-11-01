@@ -76,7 +76,7 @@ Thesis revision: Ahlai Velasquez CTA Facebook skincare ads manuscript.
 Primary file: `thesis/Velasquez_CTA_Skincare_Thesis_FINAL_2026-10-18.docx`.
 Working draft: `thesis/Velasquez_ThesisRevised_DRAFT_009.docx` (BOTS expanded and folded from last-agent rough draft).
 Prior base: DRAFT_006 preserved.
-Next: Theme 2 expansion (CTA as linguistic units) after user upload. Theme 2 source PDFs now in references/: Arakelyan_Aleksanyan_2025, Nguyen_2025_Creative_CTA, Simon_Dejica-Cartis_2015_Speech_Acts, Simon_Dejica-Cartis_2015_Directions (companion), Aditria_Rizqiya_2021 (cosmetic written ads), Nguyen_Thi_Huyen_Trang_2025 (directives in CTA online ads). Do not reintroduce cut stretch sources (De Cock activism, Bünzli engagement, Szabo reactance, Andriuzzi). Keep linguistic framing: realized/patterned, not effectiveness.
+Next: Theme 2 expansion (CTA as linguistic units) after user upload. Theme 2 source PDFs now in references/: Arakelyan_Aleksanyan_2025, Nguyen_2025_Creative_CTA, Simon_Dejica-Cartis_2015_Speech_Acts, Simon_Dejica-Cartis_2015_Directions (companion), Aditria_Rizqiya_2021 (cosmetic written ads), Nguyen_Thi_Huyen_Trang_2025 (directives in CTA online ads). BOTS no-stretch rule (ALL themes): do not reintroduce cut sources — De Cock (activism), Bünzli (engagement), Szabó & Mitev (reactance), Andriuzzi (interactive face-threat), Moore (unless single light mention). Thicken only with on-topic linguistic sources (CTA form, appeals in beauty/PH digital ads, directive subtypes in promo language). Keep linguistic framing throughout: realized/patterned, not effectiveness.
 
 ## Open threads
 - Theme 1 locked into BOTS draft (dynamic version).
