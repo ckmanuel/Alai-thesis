@@ -336,3 +336,13 @@ token" rule overrides "verbatim").
 **Assistant:**
 
 > Full ripple on DRAFT_017: ground truth n=45 matches T6/T12; T13+conclusion pair counts synced (Logos+Order 7, Logos+Suggestion 2); no social-proof/ethos leftovers; discount lines logos.
+
+#### Exchange 29 — trace panel-critique-3-001
+
+**User:**
+
+> panel: pathos now test, order vs suggestion, CTA unit, sampling, caption count 34 vs 32, housekeeping
+
+**Assistant:**
+
+> DRAFT_018: pathos time-word test applied (pathos 15, no-appeal 14); corpus 32 contributing captions/45 strings; order framing vs Pennock-Speck; single-coder/sampling limits; CTA unit; Searle ref; Ul Islam caveat.
