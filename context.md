@@ -91,7 +91,7 @@ copies already made.
 
 ## Current focus
 Thesis revision: Ahlai Velasquez CTA Facebook skincare ads.
-Working draft: `thesis/Velasquez_ThesisRevised_DRAFT_021.docx` (recode + frequencies + uncited drop + full ripple consistency pass).
+Working draft: `thesis/Velasquez_ThesisRevised_DRAFT_022.docx` (recode + frequencies + uncited drop + full ripple consistency pass).
 BOTS Themes 1–6 restored full + citation-home map. Next: Chapter 1 after BOTS (Statement of the Problem, frameworks, Significance, Definition of Terms) with linguistic claim language. Binding: analysis sequence linguistic (decisions.md).
 
 ## Open threads

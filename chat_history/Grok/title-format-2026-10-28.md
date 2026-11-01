@@ -406,3 +406,23 @@ token" rule overrides "verbatim").
 **Assistant:**
 
 > DRAFT_021: Table 1 full content width 8307 dxa (matches coding table / page content); no right gap; decision column wider.
+
+#### Exchange 36 — trace table1-clone-fullwidth-001
+
+**User:**
+
+> Clone full-width coding table structure for Table 1 - half page unused
+
+**Assistant:**
+
+> DRAFT_022 full format pass: Georgia throughout; body 11 justify double 0.5in indent; majors 14 bold center; minors 12 bold; all tables 100% width open-sided; margins 1.5/1.0 A4.
+
+#### Exchange 37 — trace full-format-pass-001
+
+**User:**
+
+> FULL FORMAT PASS - fix all formatting broken by table edits
+
+**Assistant:**
+
+> DRAFT_022 full format pass: Georgia throughout; body 11 justify double 0.5in indent; majors 14 bold center; minors 12 bold; all tables 100% width open-sided; margins 1.5/1.0 A4.
