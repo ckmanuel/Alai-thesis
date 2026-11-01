@@ -58,10 +58,13 @@ tools are described in `RETRIEVAL.md`.
 
 ## BINDING: BOTS literature (do not override)
 
-For **all** Background of the Study themes:
-1. Do **not** reintroduce sources previously cut as off-method or stretch (engagement/effectiveness, activism discourse, reactance, unrelated genres).
-2. Thicken only with on-topic **linguistic** sources that support form–function analysis of CTA phrases (rhetorical appeals + directive subtypes).
-3. Framing stays linguistic: appeals and subtypes are **realized / patterned** in CTA wording — not marketing effectiveness.
+For **all** Background of the Study themes, the gate is **method-fit**, not a fixed list of banned papers:
+
+1. Do **not** reintroduce or add sources that pull the review off form–function analysis of CTA phrases (rhetorical appeals + directive subtypes).
+2. Thicken only with on-topic **linguistic** sources that support that analysis.
+3. Framing stays linguistic: appeals and subtypes are **realized / patterned** in CTA wording — not marketing effectiveness or "construction of persuasive meaning" as the main claim.
+
+Examples of off-method drift (not exhaustive): engagement/effectiveness metrics, activism discourse, reactance, unrelated genres, consumer psychology without linguistic coding, brand ROI, ideology-only critique, platform algorithm mechanics, length-padding.
 
 This rule is also recorded in `decisions.md` (2026-11-01). Prefer that entry if focus text conflicts.
 

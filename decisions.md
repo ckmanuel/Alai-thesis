@@ -15,9 +15,9 @@ Entry template:
 -->
 
 ## 2026-11-01: BOTS no-stretch and linguistic framing (binding)
-- **Decision:** For all Background of the Study themes, do not reintroduce sources cut as off-method or stretch (engagement/effectiveness metrics, activism discourse, reactance, unrelated genres). Thicken only with on-topic linguistic sources that support form–function analysis of CTA phrases (rhetorical appeals + directive subtypes). Framing stays linguistic: how appeals and subtypes are **realized / patterned** in CTA wording — not marketing effectiveness or "construction of persuasive meaning" as the main claim.
-- **Why:** Stretch sources diluted the ELS focus; effectiveness framing drifts from the method (discourse analysis of form and force, not clicks or sales). A soft "keep in mind" in Current focus is easy to override; this is a standing project decision.
-- **Rejected:** Re-padding BOTS with off-topic engagement/activism studies; using "persuasive meaning construction" as the primary aim language.
+- **Decision:** For all Background of the Study themes, the gate is method-fit, not a fixed list of banned papers. Do not reintroduce or add sources that pull the review off form–function analysis of CTA phrases (rhetorical appeals + directive subtypes). Thicken only with on-topic linguistic sources that support that analysis. Framing stays linguistic: how appeals and subtypes are **realized / patterned** in CTA wording — not marketing effectiveness or "construction of persuasive meaning" as the main claim. Examples of off-method drift (not exhaustive): engagement/effectiveness metrics, activism discourse, reactance, unrelated genres, consumer psychology without linguistic coding, brand ROI, ideology-only critique, platform algorithm mechanics, length-padding.
+- **Why:** Stretch sources diluted the ELS focus; effectiveness framing drifts from the method (discourse analysis of form and force, not clicks or sales). A soft "keep in mind" in Current focus is easy to override; a fixed name list is too narrow for new forms of drift. This is a standing project decision.
+- **Rejected:** Re-padding BOTS with off-topic studies; using "persuasive meaning construction" as the primary aim language; treating only the first-cut papers as the limit of the rule.
 
 ## 2026-10-02: CLAUDE.md imports AGENTS.md instead of copying it
 - **Decision:** `AGENTS.md` holds the instructions. `CLAUDE.md` is one line,
